@@ -1,4 +1,4 @@
-# Openbionics - Prosthetic Hands
+# OpenBionics - Prosthetic Hands
 
 Nowadays most prosthetic hands cost dozens of thousands of USD. The OpenBionics initiative (www.openbionics.org) presents a new open-source design for highly functional prosthetic hands. The proposed hands cost less than 200$, weigh less than 300 gr and can be easily fabricated with off-the-shelf materials and rapid prototyping techniques (3D Printing). 
 
@@ -8,7 +8,7 @@ A novel differential mechanism (based on the whiffletree) allows the user to blo
 
 Τhe use of parametric models derived from human hand anthropometry studies, allows for the development of personalized prosthesis. The only parameters that we need in order to derive the finger phalanges lengths and the personalized finger base frames positions and orientations, are the human hand length (HL) and the human hand breadth (HB). 
 
-We have modified our CAD files in order to integrate those parameters (HL & HB) for the production of personalized design. You can find below a quick guide for the production of personalized design.
+We have modified our CAD files in order to integrate the required parameters (HL & HB) for the replication of personalized design. You can find below a quick guide for the production of personalized design.
 
 1. Open the part file "prostheticParameters.SLDPRT" which can be found @ <a href="https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD">Prosthetic-Hands\CAD</a>
 2. Make the parametersSketch editable. You can see here the parameters that you can change their values in mm and NOT inch
