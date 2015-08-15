@@ -8,11 +8,11 @@ A novel differential mechanism (based on the whiffletree) allows the user to blo
 
 Τhe use of parametric models derived from human hand anthropometry studies, allows for the development of personalized prosthesis. The only parameters that we need in order to derive the finger phalanges lengths and the personalized finger base frames positions and orientations, are the human hand length (HL) and the human hand breadth (HB). 
 
-We have modified our CAD files in order to integrate the required parameters (HL & HB) for the replication of personalized design. You can find below a quick guide for the production of personalized design.
+We have modified our CAD files in order to integrate the required parameters (HL & HB) for the replication of personalized design. Firstly, you need to decide which hand you want to replicate (Right or Left). You can find below a quick guide for the production of personalized design where the procedure is same for both hands.
 
-1. Open the part file "prostheticParameters.SLDPRT" which can be found @ <a href="https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD">Prosthetic-Hands\CAD</a>
+1. Open the part file "prostheticParameters.SLDPRT" which can be found @ <a href="https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/LeftHand">Prosthetic-Hands\CAD\Left</a>
 2. Make the parametersSketch editable. You can see here the parameters that you can change their values in mm and NOT inch
-3. Open the assembly file "AnthropomorphicHandAssembly.SLDASM" which can be found @ <a href= "https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/Assembly">Prosthetic-Hands\CAD\Assembly</a>
+3. Open the assembly file "AnthropomorphicHandAssembly.SLDASM" which can be found @ <a href= "https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/LeftHand/Assembly">Prosthetic-Hands\CAD\Left\Assembly</a>
 4. Go to the part file "prostheticParameters.SLDPRT", change the desire values (HL=hand length, HB=hand breadth & fingerWidth) according to this <a href="http://www.handresearch.com/diagnostics/extraversion/hand-shape-index.jpg">
 image</a> and save them
 5. Go to the assembly file "AnthropomorphicHandAssembly.SLDASM" and rebuild it. All .SLDPRT files that used in the assembly should be rebuild
