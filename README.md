@@ -1,4 +1,4 @@
-# OpenBionics - Prosthetic Hands
+﻿# OpenBionics - Prosthetic Hands
 
 Nowadays most prosthetic hands cost dozens of thousands of USD. The OpenBionics initiative (www.openbionics.org) presents a new open-source design for highly functional prosthetic hands. The proposed hands cost less than 200$, weigh less than 300 gr and can be easily fabricated with off-the-shelf materials and rapid prototyping techniques (3D Printing). 
 
@@ -13,7 +13,7 @@ We have modified our CAD files in order to integrate the required parameters (HL
 1. Open the part file "prostheticParameters.SLDPRT" which can be found @ <a href="https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD">Prosthetic-Hands\CAD</a>
 2. Make the parametersSketch editable. You can see here the parameters that you can change their values in mm and NOT inch
 3. Open the assembly file "AnthropomorphicHandAssembly.SLDASM" which can be found @ <a href= "https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/Assembly">Prosthetic-Hands\CAD\Assembly</a>
-4. Go to the part file "prostheticParameters.SLDPRT", change the desire values (HL=hand length, HB=hand breadth & fingerWidth) according to this <a href="http://www.handresearch.com/diagnostics/extraversion/hand-shape-index.jpg">
+4. Go to the part file "prostheticParameters.SLDPRT", change the desire values (HL=hand length, HB=hand breadth & fingerWidth) according to this <a href="https://github.com/OpenBionics/Prosthetic-Hands/tree/master/Pics/HumanHand.jpg">
 image</a> and save them
 5. Go to the assembly file "AnthropomorphicHandAssembly.SLDASM" and rebuild it. All .SLDPRT files that used in the assembly should be rebuild
 6. If you want .STL files you should open every rebuilded part and choose Save as .STL
