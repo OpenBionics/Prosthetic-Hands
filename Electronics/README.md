@@ -17,7 +17,7 @@ The Pin Mapping of the breakout board.
 # Board Development
 
 The development of the breakout board was done using the facilities of
-the Athens Hackerspace (Thanks!!!). Some photos of the development proccess and 
+the Athens Hackerspace (Thanks!!!). Some photos of the development process and 
 final result.
 
 <img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/ProstheticBoardFinal.png" width="60%" height="60%" />
