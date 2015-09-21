@@ -24,4 +24,4 @@ final result.
 
 <img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/ProstheticBoard6.jpg" width="60%" height="60%" />
 
-The library of openbionics is placed [here](https://github.com/OpenBionics/Robot-Hands/tree/master/Electronics).
+The OpenBionics Electronics Library can be found [here](https://github.com/OpenBionics/Robot-Hands/tree/master/Electronics).
