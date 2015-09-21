@@ -24,7 +24,7 @@
  IMPORTANT:
 
   The library works on Arduino UNO/2009 - Arduino Mega.
-  Please with Arduino UNO/2009 works with SoftwareSerial library modified with baud rate 57.600.
+  Please with Arduino UNO/2009 works with SoftwareSerial library modified with bsendDataaud rate 57.600.
   Use this begin type:
 		begin(57600, int rx, int tx);
  
@@ -78,6 +78,13 @@ void HerkulexClass::beginSerial3(long baud)
 	Serial3.begin(baud);
 	port = HSerial3;
 }
+#elif (__AVR_ATmega32U4__)
+// Herkulex begin with Arduino Micro - Serial 1
+void HerkulexClass::beginSerial1(long baud)
+{
+	Serial1.begin(baud);
+	port = HSerial1;
+}
 #endif
 
 // Herkulex end
@@ -97,6 +104,10 @@ void HerkulexClass::end()
 		break;
 	case HSerial3:
 		Serial3.end();
+		break;
+	#elif (__AVR_ATmega32U4__)
+	case HSerial1:
+		Serial1.end();
 		break;
 	#endif
 	}
@@ -202,7 +213,7 @@ void HerkulexClass::torqueOFF(int servoID)
 	ck2=checksum2(ck1);					//7. Checksum2
 
 	dataEx[0] = 0xFF;			// Packet Header
-	dataEx[1] = 0xFF;			// Packet Header	
+	dataEx[1] = 0xFF;			// Packet Header
 	dataEx[2] = pSize;	 		// Packet Size
 	dataEx[3] = pID;			// Servo ID
 	dataEx[4] = cmd;			// Command Ram Write
@@ -214,6 +225,36 @@ void HerkulexClass::torqueOFF(int servoID)
 
     sendData(dataEx, pSize);
 
+}
+
+//Set Overload PWM Threshold
+void HerkulexClass::setOverloadPWMThreshold(int servoID)
+{
+	pSize = 0x0B;		// 3.Packet size
+	pID   = servoID;	// 4. Servo ID
+	cmd   = HRAMWRITE;	// 5. CMD
+	data[0]=0x12;		// 8. Address
+	data[1]=0x02;		// 9. Lenght
+	data[2]=0x7F;		// 10. MSB
+	data[3]=0xFE;		// 11. LSB
+	lenghtString=4;		// lenghtData
+
+	ck1=checksum1(data,lenghtString);	//6. Checksum1
+	ck2=checksum2(ck1);					//7. Checksum2
+
+	dataEx[0] = 0xFF;	// Packet Header
+	dataEx[1] = 0xFF;	// Packet Header
+	dataEx[2] = pSize;	// Packet Size
+	dataEx[3] = pID;	// Servo ID
+	dataEx[4] = cmd;	// Command Ram Write
+	dataEx[5] = ck1;	// Checksum 1
+	dataEx[6] = ck2;	// Checksum 2
+	dataEx[7] = data[0];// Address
+	dataEx[8] = data[1];// Length
+	dataEx[9] = data[2];// Data
+	dataEx[10] = data[3];// Data
+
+	sendData(dataEx, pSize);
 }
 
 // ACK  - 0=No Replay, 1=Only reply to READ CMD, 2=Always reply
@@ -891,6 +932,11 @@ void HerkulexClass::sendData(byte* buffer, int lenght)
 				Serial3.write(buffer, lenght);
 				delay(1);
 				break;
+			#elif (__AVR_ATmega32U4__)
+			case HSerial1:
+				Serial1.write(buffer, lenght);
+				delay(1);
+				break;
 			#endif
 		}
 }
@@ -927,16 +973,16 @@ void HerkulexClass::readData(int size)
 	#if defined (__AVR_ATmega1280__) || defined (__AVR_ATmega128__) || defined (__AVR_ATmega2560__)
 	case HSerial1:
 		while((Serial1.available() < size) & (Time_Counter < TIME_OUT)){
-        		Time_Counter++;
-        		delayMicroseconds(1000);
-		}      	
+				Time_Counter++;
+				delayMicroseconds(1000);
+		}
 		while (Serial1.available() > 0){
-      		byte inchar = (byte)Serial1.read();
+			byte inchar = (byte)Serial1.read();
 			//printHexByte(inchar);
-        	if ( (inchar == 0xFF) & ((byte)Serial1.peek() == 0xFF) ){
-						beginsave=1;
-						i=0; 						
-             }
+			if ( (inchar == 0xFF) & ((byte)Serial1.peek() == 0xFF) ){
+				beginsave=1;
+				i=0;
+			}
             if (beginsave==1 && i<size) {
                        dataEx[i] = inchar;
                        i++;
@@ -981,6 +1027,25 @@ void HerkulexClass::readData(int size)
 			}
 		}
 		break;
+	#elif (__AVR_ATmega32U4__)
+	case HSerial1:
+		while((Serial1.available() < size) & (Time_Counter < TIME_OUT)){
+			Time_Counter++;
+			delayMicroseconds(1000);
+		}
+		while (Serial1.available() > 0){
+			byte inchar = (byte)Serial1.read();
+			//printHexByte(inchar);
+			if ( (inchar == 0xFF) & ((byte)Serial1.peek() == 0xFF) ){
+				beginsave=1;
+				i=0;
+			}
+            if (beginsave==1 && i<size) {
+                       dataEx[i] = inchar;
+                       i++;
+			}
+		}
+		break;
 	#endif
 	}
 }
@@ -1015,6 +1080,15 @@ void HerkulexClass::clearBuffer()
 				while (Serial3.available()){
 					Serial3.read();
 					delayMicroseconds(200);
+				}
+
+		break;
+	#elif (__AVR_ATmega32U4__)
+	case HSerial1:
+				Serial1.flush();
+				while (Serial1.available()){
+				Serial1.read();
+				delayMicroseconds(200);
 				}
 
 		break;

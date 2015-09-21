@@ -102,6 +102,7 @@ public:
   
   void  torqueON(int servoID);
   void  torqueOFF(int servoID);
+  void  setOverloadPWMThreshold(int servoID);
   
   void  moveAll(int servoID, int Goal, int iLed);
   void  moveSpeedAll(int servoID, int Goal, int iLed);
