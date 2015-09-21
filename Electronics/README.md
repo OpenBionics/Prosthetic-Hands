@@ -1,23 +1,23 @@
-# Electonic Break-out for Prosthetic Hand
+# Electronic Break-out for Prosthetic Hand
 
-We start to develop a break out for prosthetic hand in order to 
-control it. The PCB has pin headers to connect two different servo 
-motors like standard servo and herkulex. Also it desinged to have 
-analog inputs like [EMG](http://www.advancertechnologies.com/p/muscle-sensor-v3.html) and digital inputs like buttons for [RobotHandExtension.](
-https://github.com/OpenBionics/Robot-Hands/tree/master/CAD/Interfaces/Extension) 
-We have also use the I2C bus in order to connect sensors like this [takktile](http://www.takktile.com/) or other servo like the [openservo](
-http://openservo.com/). The break-out board has external pins for development. The main microcontroller is arduino micro pro with ATmega32U4 core
-. The pcb powered by external power supply or battery. The input power in consist of the servo motor. The all procces is under develoment.
+We present the development of a breakout board for controlling our prosthetic hand. It is a PCB (printed circuit board) with pin headers to accomodate two different servo motors, such as standard servo and herkulex. It can have both analog inputs (e.g. [EMG] signals, using for example (http://www.advancertechnologies.com/p/muscle-sensor-v3.html)) and digital inputs (e.g. buttons for [RobotHandExtension], see https://github.com/OpenBionics/Robot-Hands/tree/master/CAD/Interfaces/Extension).
+The I2C bus can also be used in order to connect sensors like [takktile] (http://www.takktile.com/) or other servos such as the [openservo](http://openservo.com/). The breakout board also has external pins for development. 
+
+
+The main microcontroller we currently use is an Arduino Micro Pro, equipped with an ATmega32U4 core. The PCB can be powered by an external power supply or a battery. 
+
+The board is currently under testing. Pictures of the board and its development process can be found below.
 
 # Pinout
-The Pin Mapping of the break-out board.
+
+The Pin Mapping of the breakout board.
 
 <img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/ProstheticBoard.png" width="60%" height="60%" />
 
-# Produce Prosthetic Hand Board
+# Board Development
 
-In order to produce our break out board we use the facilities of 
-hackerspace in athens (Thanks!!!). Some photos of the procces and 
+The development of the breakout board was done using the facilities of
+the Athens Hackerspace (Thanks!!!). Some photos of the development proccess and 
 final result.
 
 <img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/ProstheticBoardFinal.png" width="60%" height="60%" />
