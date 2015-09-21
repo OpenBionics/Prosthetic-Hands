@@ -1,0 +1,58 @@
+#######################################
+# Syntax Coloring Map for Herkulex library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Herkulex	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin   	KEYWORD2
+beginSerial1	KEYWORD2
+beginSerial2	KEYWORD2
+beginSerial3	KEYWORD2
+end		KEYWORD2
+initialize	KEYWORD2
+stat	    	KEYWORD2
+ACK		KEYWORD2
+model		KEYWORD2
+set_ID	      	KEYWORD2
+clearError	KEYWORD2
+torqueON	KEYWORD2
+torqueOFF    	KEYWORD2
+moveAll	     	KEYWORD2
+actionAll	KEYWORD2
+moveSpeedOne   	KEYWORD2
+moveOne		KEYWORD2	
+moveOneAngle  	KEYWORD2
+getPosition	KEYWORD2	
+getAngle	KEYWORD2
+getSpeed	KEYWORD2
+reboot		KEYWORD2
+setLed		KEYWORD2
+writeRegistryRAM KEYWORD2
+writeRegistryEEP KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+LED_GREEN 			LITERAL1
+LED_BLUE  			LITERAL1
+LED_CYAN  			LITERAL1
+LED_RED   			LITERAL1
+LED_GREEN2			LITERAL1
+LED_PINK  			LITERAL1
+LED_WHITE 			LITERAL1
+
+H_STATUS_OK			LITERAL1
+H_ERROR_INPUT_VOLTAGE 		LITERAL1
+H_ERROR_POS_LIMIT		LITERAL1
+H_ERROR_TEMPERATURE_LIMIT	LITERAL1
+H_ERROR_INVALID_PKT		LITERAL1
+H_ERROR_OVERLOAD		LITERAL1
+H_ERROR_DRIVER_FAULT  		LITERAL1
+H_ERROR_EEPREG_DISTORT		LITERAL1
+BROADCAST_ID 			LITERAL1
