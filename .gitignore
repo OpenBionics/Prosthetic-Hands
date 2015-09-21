@@ -4,3 +4,7 @@
 *.l#?
 *.bak
 *.kicad_pcb-bak
+
+# Backup files in freecad and gcode
+*.gcode
+*.fcstd1
