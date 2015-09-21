@@ -10,4 +10,6 @@ We modified the library in order to control the motor with an [Arduino](https://
 
 We plan on controlling our prosthetic hands with different interfaces, such as [these](https://github.com/OpenBionics/Robot-Hands/tree/master/CAD/Interfaces) or EMG sensors. 
 
+A high-level schematic depicting the interfaces of our prosthetic hands is shown below.
+
 <img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/Interfaces.png" width="60%" height="60%" />
