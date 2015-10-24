@@ -8,7 +8,7 @@ Up to now we have designed the palm with the differential and the thumb abductio
 
 <img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/Freecad6.png" width="60%" height="60%" />
 
-As depicted, we reduced the radius of the button axle and the radius of the holes of the bars. This change, makes the coupled fingers (e.g., index and middle) more independent when one of them is locked. The radius now is 3mm. When one finger is locked and the other moves, the locked finger tendon will move a distance of 3mm*angle_of_bar. For example, if the angle_of_bar = PI/4 , then the tendon moves a distance of ~2.35mm. 
+As depicted, we reduced the radius of the button axle and the radius of the holes of the bars. This change, makes the coupled fingers (e.g., index and middle) more independent when one of them is locked. The radius is now 3mm. When one finger is locked and the other moves, the locked finger tendon will move a distance of 3mm*angle_of_bar. For example, if the angle_of_bar = PI/4  then the tendon moves a distance of ~2.35mm. 
 
 We also modified the tendon routing. As you can see in the picture below the tendon comes out from the side of palm in order to be connected with the body harness for body powered prosthetic hands. With this configuration you can also put the servo motor in the same position (currently under development).
 
