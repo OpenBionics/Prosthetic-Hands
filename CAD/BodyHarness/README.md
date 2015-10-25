@@ -2,7 +2,7 @@
 
 ## The Idea
 
-An old and reliable method of controlling prosthetic devices is by using a harness-socket actuation system in a body powered manner [1]. In order to further reduce the cost of our prosthetic hands omitting any kind of electronics and servos, we designed a body powered actuation system that an amputee can use as an interface to control a prosthetic hand. The proposed system is inspired by the classic harness-socket actuation systems but is designed as an exosceleton. The system consists of modular parts. Depending on the user's arm length an appropriate number of intermediate modules can be printed together with the end-effector and the tendon routing entry part.  
+An old and reliable method of controlling prosthetic devices is by using a harness-socket actuation system in a body powered manner [1]. In order to further reduce the cost of our prosthetic hands omitting any kind of electronics and servos, we designed a body powered actuation system that an amputee can use as an interface to control a prosthetic hand. The proposed system is inspired by the classic harness-socket actuation systems but is designed as an exosceleton. The system consists of modular parts. Depending on the user's arm length an appropriate number of intermediate modules can be printed together with the end-effector and the tendon routing entry part.
 
 <img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/harness1.jpg" width="60%" height="60%"/>
 
@@ -21,6 +21,8 @@ The mechanism can be replicated and assembled quite easily, as depicted in the p
 
 <img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/harness5.jpg" width="60%" height="60%" />
 
-References: 
+<img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/harness5.jpg" width="60%" height="60%" />
 
-[1] R. J. Pursley, "Harness patterns for upper-extremity prostheses", Artif Limbs, 2(3):26-60, Sep 1955. 
+**References:** 
+
+[1] R. J. Pursley, "Harness patterns for upper-extremity prostheses", Artif Limbs, 2(3):26-60, Sep 1955.
