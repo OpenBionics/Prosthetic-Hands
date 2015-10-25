@@ -2,7 +2,8 @@
 
 ## Introduction
 Body harness is a device that moves a prosthetic hand mechanicaly. We develop in order to try our prosthetic hand without using electronics and to understand how an ampeete feels with these devices. Also with small modifications an ampeete can be use as the main interface.
-<img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/harness1.jpg" width="60%" height="60%" />
+
+<img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/harness1.jpg" width="60%" height="60%"/>
 
 ## Description
 
