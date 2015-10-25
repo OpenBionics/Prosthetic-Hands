@@ -21,7 +21,7 @@ The mechanism can be replicated and assembled quite easily, as depicted in the p
 
 <img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/harness5.jpg" width="60%" height="60%" />
 
-<img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/harness5.jpg" width="60%" height="60%" />
+<img src="https://raw.githubusercontent.com/OpenBionics/Prosthetic-Hands/master/Pics/harness6.jpg" width="60%" height="60%" />
 
 **References:** 
 
