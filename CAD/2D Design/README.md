@@ -20,7 +20,7 @@ We have modified our CAD files in order to integrate the required parameters (HL
 
 In the following figure you can see the 2D Design model
 
-<img src="https://github.com/OpenBionics/Prosthetic-Hands/CAD/2D Design/RightHand/Photos/righthand.jpg" width="60%" height="60%"/>
+<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/righthand.jpg" width="60%" height="60%"/>
 
 ## Things to note:
 
