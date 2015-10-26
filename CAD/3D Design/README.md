@@ -1,4 +1,6 @@
-﻿# Personalized Design
+﻿# Parametric CAD file for 2D Design
+
+## Guide for perosnaliszd design
 
 Τhe use of parametric models derived from human hand anthropometry studies, allows for the development of personalized prostheses. The only parameters that we need in order to derive the finger phalanges lengths and the personalized finger base frames positions and orientations, are the human hand length (HL) and the human hand breadth (HB). 
 
@@ -7,12 +9,20 @@ We have modified our CAD files in order to integrate the required parameters (HL
 1. Open the part file "prostheticParameters.SLDPRT" which can be found @ <a href="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/CAD/3D%20Design/prostheticParameters.SLDPRT">Prosthetic-Hands/CAD/3D Design</a>.
 2. Make the "parametersSketch" file editable. You can see there, the parameters that you can change. Their values are reported in mm and NOT in inches.
 3. Open the assembly file "AnthropomorphicHandAssembly.SLDASM" which can be found @ <a href= "https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/3D%20Design/Assembly">Prosthetic-Hands/CAD/3D Design/Assembly</a>.
-4. Go to the file "prostheticParameters.SLDPRT" and change the desired values (HL=hand length, HB=hand breadth & fingerWidth) according to this <a href="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/HumanHand.jpg">
-image</a> and then save the file.
+4. Go to the file "prostheticParameters.SLDPRT" and change the desired values (HL=hand length, HB=hand breadth & fingerWidth) according to the following figure and then save the file.
+
+<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/HumanHand.jpg" width="60%" height="60%"/>
+ 
 5. Go to the assembly file "AnthropomorphicHandAssembly.SLDASM" and rebuild it. All .SLDPRT files that are used in the assembly should be rebuilt.
 6. If you want .STL files, you should open every rebuilt part and then choose "Save as .STL".
 
-#Things to note:
+## 3D Design Model
+
+In the following figure you can see the 2D Design model
+
+<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/AnthropomorphicHandAssembly_Guide.png" width="60%" height="60%"/>
+
+##Things to note:
 
 1. The design has specific constraints, which cover the 95th percentile of the human hand and those are:<br/>
 Hand Length: 182 - 225 mm<br/>
