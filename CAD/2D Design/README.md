@@ -1,18 +1,28 @@
-﻿# Personalized Design
+﻿# Parametric CAD file for 2D Design
+
+## Guide for perosnaliszd design
 
 Τhe use of parametric models derived from human hand anthropometry studies, allows for the development of personalized prostheses. The only parameters that we need in order to derive the finger phalanges lengths and the personalized finger base frames positions and orientations, are the human hand length (HL) and the human hand breadth (HB). 
 
 We have modified our CAD files in order to integrate the required parameters (HL & HB) for the replication of a personalized design. Firstly, you need to decide which hand you want to replicate (Right or Left). You can find below a quick guide for the production of the personalized design. The procedure is the same for both hands.
 
-1. Open the part file "prostheticParameters.SLDPRT" which can be found @ <a href="https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/LeftHand">Prosthetic-Hands\CAD\Left</a>.
+1. Open the part file "prostheticParameters.SLDPRT" which can be found @ <a href="https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/2D%20Design/LeftHand">Prosthetic-Hands/CAD/2D Design/Left</a>.
 2. Make the "parametersSketch" file editable. You can see there, the parameters that you can change. Their values are reported in mm and NOT in inches.
-3. Open the assembly file "AnthropomorphicHandAssembly.SLDASM" which can be found @ <a href= "https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/LeftHand/Assembly">Prosthetic-Hands\CAD\Left\Assembly</a>.
-4. Go to the file "prostheticParameters.SLDPRT" and change the desired values (HL=hand length, HB=hand breadth & fingerWidth) according to this <a href="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/HumanHand.jpg">
-image</a> and then save the file.
+3. Open the assembly file "AnthropomorphicHandAssembly.SLDASM" which can be found @ <a href= "https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/2D%20Design/LeftHand/Assembly">Prosthetic-Hands/CAD/2D Design/Left/Assembly</a>.
+4. Go to the file "prostheticParameters.SLDPRT" and change the desired values (HL=hand length, HB=hand breadth & fingerWidth) according to the following figure and then save the file.
+
+<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/HumanHand.jpg" width="60%" height="60%"/>
+ 
 5. Go to the assembly file "AnthropomorphicHandAssembly.SLDASM" and rebuild it. All .SLDPRT files that are used in the assembly should be rebuilt.
 6. If you want .STL files, you should open every rebuilt part and then choose "Save as .STL".
 
-#Things to note:
+## 2D Design Model
+
+In the following figure you can see the 2D Design model
+
+<img src="https://github.com/OpenBionics/Prosthetic-Hands/CAD/2D Design/RightHand/Photos/righthand.jpg" width="60%" height="60%"/>
+
+## Things to note:
 
 1. The design has specific constraints, which cover the 95th percentile of the human hand and those are:<br/>
 Hand Length: 182 - 225 mm<br/>
