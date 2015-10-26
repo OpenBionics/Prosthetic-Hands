@@ -3,25 +3,25 @@
 We present a [technical report](https://github.com/OpenBionics/Prosthetic-Hands/blob/3dPrinted/Assembly%20Guide/tex/OpenBionics_ProstheticHandsGuide2015.pdf), intended to serve as a step by step tutorial for the replication of the prosthetic hands. The guide contains illustrated instructions, carrying the user over all assembly steps and providing practical advice on any details that
 require attention. 
 
-<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/3dPrinted/Assembly%20Guide/tex/figures/screenshots/tools.png" width="60%" height="60%" />
+<img src="https://github.com/OpenBionics/Prosthetic-Hands/master/Assembly%20Guide/tex/figures/screenshots/tools.png" width="60%" height="60%" />
 
 Figure 1. Tools required to build all hand components.
 
 Illustrations of all required parts, components, tools and materials (see Fig.1) are included, while comprehensive Parts Reference tables are provided (see for example a table containing all palm parts in Table 1). 
 
-<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/3dPrinted/Assembly%20Guide/tex/figures/screenshots/palmpartstable.png" width="60%" height="60%" />
+<img src="https://github.com/OpenBionics/Prosthetic-Hands/master/Assembly%20Guide/tex/figures/screenshots/palmpartstable.png" width="60%" height="60%" />
 
 Table 1. The parts required to asseble the palm.
 
 Each assembly step is preceeded by a relevant parts list table for convenience. For example Fig. 2 contains images of all the palm parts.
 
-<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/3dPrinted/Assembly%20Guide/tex/figures/screenshots/palmpartsboard.png" width="60%" height="60%" />
+<img src="https://github.com/OpenBionics/Prosthetic-Hands/master/Assembly%20Guide/tex/figures/screenshots/palmpartsboard.png" width="60%" height="60%" />
 
 Figure 2. Parts required to build the palm.
 
 The assembly is divided into two main sections: 1) Fingers Assembly and 2) Hand assembly, with the latter containing instructions on how to build and attach all the hand components on the palm. 
 
-<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/3dPrinted/Assembly%20Guide/tex/figures/screenshots/finalassembly.png" width="60%" height="60%" />
+<img src="https://github.com/OpenBionics/Prosthetic-Hands/master/Assembly%20Guide/tex/figures/screenshots/finalassembly.png" width="60%" height="60%" />
 
 Figure 3. Attaching a flange on the assembled hand. 
 
