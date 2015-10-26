@@ -1,0 +1,2430 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.13)  25 OCT 2015 18:21
+entering extended mode
+**C:/Users/Minas/Desktop/OpenBionicsGuide/OpenBionics_ProstheticHandsGuide2015.
+tex
+
+(C:/Users/Minas/Desktop/OpenBionicsGuide/OpenBionics_ProstheticHandsGuide2015.t
+ex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen111
+\Hy@linkcounter=\count91
+\Hy@pagecounter=\count92
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count93
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count94
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen112
+\Fld@menulength=\count95
+\Field@Width=\dimen113
+\Fld@charsize=\dimen114
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count96
+\c@Item=\count97
+\c@Hfootnote=\count98
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count99
+\c@bookmark@seq@number=\count100
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count101
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.te
+x"
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen115
+\pgfutil@tempdimb=\dimen116
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-li
+sts.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+"
+\pgfutil@abb=\box26
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+"
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+"
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.c
+ode.tex"
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen119
+\pgf@y=\dimen120
+\pgf@xa=\dimen121
+\pgf@ya=\dimen122
+\pgf@xb=\dimen123
+\pgf@yb=\dimen124
+\pgf@xc=\dimen125
+\pgf@yc=\dimen126
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count102
+\c@pgf@countb=\count103
+\c@pgf@countc=\count104
+\c@pgf@countd=\count105
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.d
+ef"
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-p
+df.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.
+code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count106
+\pgfsyssoftpath@bigbuffer@items=\count107
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.
+code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+"
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+"
+\pgfmath@dimen=\dimen127
+\pgfmath@count=\count108
+\pgfmath@box=\box27
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.
+tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic
+.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigo
+nometric.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.rando
+m.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.compa
+rison.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.
+code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round
+.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.
+code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integ
+erarithmetics.code.tex")))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count109
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.co
+de.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen128
+\pgf@picmaxx=\dimen129
+\pgf@picminy=\dimen130
+\pgf@picmaxy=\dimen131
+\pgf@pathminx=\dimen132
+\pgf@pathmaxx=\dimen133
+\pgf@pathminy=\dimen134
+\pgf@pathmaxy=\dimen135
+\pgf@xx=\dimen136
+\pgf@xy=\dimen137
+\pgf@yx=\dimen138
+\pgf@yy=\dimen139
+\pgf@zx=\dimen140
+\pgf@zy=\dimen141
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconst
+ruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen142
+\pgf@path@lasty=\dimen143
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage
+.code.tex"
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen144
+\pgf@shorten@start@additional=\dimen145
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.co
+de.tex"
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count110
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicst
+ate.code.tex"
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen146
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransform
+ations.code.tex"
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen147
+\pgf@pt@y=\dimen148
+\pgf@pt@temp=\dimen149
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.cod
+e.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.c
+ode.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathproce
+ssing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.co
+de.tex"
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen150
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.cod
+e.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen151
+\pgf@sys@shading@range@num=\count111
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.cod
+e.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.
+code.tex"
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box31
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.co
+de.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretranspare
+ncy.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.
+code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.cod
+e.tex"
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box32
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.
+tex"
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version
+-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen152
+\pgf@nodesepend=\dimen153
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version
+-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+\pgffor@iter=\dimen154
+\pgffor@skip=\dimen155
+\pgffor@stack=\toks26
+\pgffor@toks=\toks27
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.cod
+e.tex"
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothan
+dlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count112
+\pgfplotmarksize=\dimen156
+)
+\tikz@lastx=\dimen157
+\tikz@lasty=\dimen158
+\tikz@lastxsaved=\dimen159
+\tikz@lastysaved=\dimen160
+\tikzleveldistance=\dimen161
+\tikzsiblingdistance=\dimen162
+\tikz@figbox=\box33
+\tikz@figbox@bg=\box34
+\tikz@tempbox=\box35
+\tikz@tempbox@bg=\box36
+\tikztreelevel=\count113
+\tikznumberofchildren=\count114
+\tikznumberofcurrentchild=\count115
+\tikz@fig@count=\count116
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.cod
+e.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count117
+\pgfmatrixcurrentcolumn=\count118
+\pgf@matrix@numberofcolumns=\count119
+)
+\tikz@expandcount=\count120
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.code.tex"
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.0 (rcs-revision 1.1)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.misc.code.tex"
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.misc.code.tex"
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.0 (rcs-revision 1.5)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.symbols.code.tex"
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.symbols.code.tex"
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.0 (rcs-revision 1.6)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.arrows.code.tex"
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.arrows.code.tex"
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.0 (rcs-revision 1.1)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.callouts.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.callouts.code.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.0 (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box37
+\pgfnodeparttwobox=\box38
+\pgfnodepartthreebox=\box39
+\pgfnodepartfourbox=\box40
+\pgfnodeparttwentybox=\box41
+\pgfnodepartnineteenbox=\box42
+\pgfnodeparteighteenbox=\box43
+\pgfnodepartseventeenbox=\box44
+\pgfnodepartsixteenbox=\box45
+\pgfnodepartfifteenbox=\box46
+\pgfnodepartfourteenbox=\box47
+\pgfnodepartthirteenbox=\box48
+\pgfnodeparttwelvebox=\box49
+\pgfnodepartelevenbox=\box50
+\pgfnodeparttenbox=\box51
+\pgfnodepartninebox=\box52
+\pgfnodeparteightbox=\box53
+\pgfnodepartsevenbox=\box54
+\pgfnodepartsixbox=\box55
+\pgfnodepartfivebox=\box56
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibrarysnakes.code.tex"
+File: tikzlibrarysnakes.code.tex 2013/07/15 v3.0.0 (rcs-revision 1.7)
+
+
+Package pgf Warning: Snakes have been superseded by decorations. Please use the
+ decoration libraries instead of the snakes library on input line 14.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibrarydecorations.pathmorphing.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibrarydecorations.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduledecoration
+s.code.tex"
+\pgfdecoratedcompleteddistance=\dimen163
+\pgfdecoratedremainingdistance=\dimen164
+\pgfdecoratedinputsegmentcompleteddistance=\dimen165
+\pgfdecoratedinputsegmentremainingdistance=\dimen166
+\pgf@decorate@distancetomove=\dimen167
+\pgf@decorate@repeatstate=\count121
+\pgfdecorationsegmentamplitude=\dimen168
+\pgfdecorationsegmentlength=\dimen169
+)
+\tikz@lib@dec@box=\box57
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgfli
+brarydecorations.pathmorphing.code.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibrarydecorations.pathreplacing.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgfli
+brarydecorations.pathreplacing.code.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibrarydecorations.shapes.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgfli
+brarydecorations.shapes.code.tex")))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks28
+\ex@=\dimen170
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen171
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count122
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count123
+\leftroot@=\count124
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count125
+\DOTSCASE@=\count126
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box58
+\strutbox@=\box59
+\big@size=\dimen172
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count127
+\c@MaxMatrixCols=\count128
+\dotsspace@=\muskip11
+\c@parentequation=\count129
+\dspbrk@lvl=\count130
+\tag@help=\toks29
+\row@=\count131
+\column@=\count132
+\maxfields@=\count133
+\andhelp@=\toks30
+\eqnshift@=\dimen173
+\alignsep@=\dimen174
+\tagshift@=\dimen175
+\tagwidth@=\dimen176
+\totwidth@=\dimen177
+\lineht@=\dimen178
+\@envbody=\toks31
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks32
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count134
+\float@exts=\toks33
+\float@box=\box60
+\@float@everytoks=\toks34
+\@floatcapt=\box61
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen179
+\WF@size=\dimen180
+\c@WF@wrappedlines=\count135
+\WF@box=\box62
+\WF@everypar=\toks35
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count136
+\U@D=\dimen181
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen182
+\extrarowheight=\dimen183
+\NC@list=\toks36
+\extratabsurround=\skip47
+\backup@length=\skip48
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen184
+\captionmargin@=\dimen185
+\captionwidth=\dimen186
+\caption@tempdima=\dimen187
+\caption@indent=\dimen188
+\caption@parindent=\dimen189
+\caption@hangindent=\dimen190
+)
+\c@ContinuedFloat=\count137
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count138
+\c@subtable=\count139
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\sidecap\sidecap.sty"
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen191
+\SC@CAPWD=\dimen192
+\SC@tempdima=\dimen193
+\SC@tempdimb=\dimen194
+\c@SC@C=\count140
+\SC@BOX=\box63
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box64
+\sift@deathcycles=\count141
+\@vwid@loff=\dimen195
+\@vwid@roff=\dimen196
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\chngcntr\chngcntr.sty"
+Package: chngcntr 2009/09/02 v1.0a change counter resetting
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\version.sty"
+Package: version 2009/09/15  v 2.0
+Package version Info: Excluding comment environments declared on input line 115
+.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pict2e\pict2e.sty"
+Package: pict2e 2014/01/12 v0.2z Improved picture commands (HjG,RN,JT)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\pict2e.cfg"
+File: pict2e.cfg 2005/12/29 v1.0 MiKTeX 'pict2e' configuration
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pict2e\p2e-pdftex.def"
+File: p2e-pdftex.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks37
+\@arclen=\dimen197
+\@arcrad=\dimen198
+\@tempdimd=\dimen199
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\picture.sty"
+Package: picture 2009/10/11 v1.3 Dimens for picture macros (HO)
+Package picture Info: Calculation method: etex.
+)
+\CBox=\box65
+\CLength=\skip49
+
+(C:\Users\Minas\Desktop\OpenBionicsGuide\OpenBionics_ProstheticHandsGuide2015.a
+ux (C:\Users\Minas\Desktop\OpenBionicsGuide\Description.aux)
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix1.aux)
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix2.aux)
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix3.aux)
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix4.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box66
+Package hyperref Info: Link coloring OFF on input line 72.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count142
+)
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
+
+(C:\Users\Minas\Desktop\OpenBionicsGuide\OpenBionics_ProstheticHandsGuide2015.o
+ut)
+(C:\Users\Minas\Desktop\OpenBionicsGuide\OpenBionics_ProstheticHandsGuide2015.o
+ut)
+\@outlinefile=\write4
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count143
+\scratchdimen=\dimen200
+\scratchbox=\box67
+\nofMPsegments=\count144
+\nofMParguments=\count145
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count146
+\MPscratchDim=\dimen201
+\MPnumerator=\count147
+\makeMPintoPDFobject=\count148
+\everyMPtoPDFconversion=\toks39
+) ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: sidecap package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
+)
+\CenteringLeftskip=\skip50
+\RaggedLeftLeftskip=\skip51
+\RaggedRightLeftskip=\skip52
+\CenteringRightskip=\skip53
+\RaggedLeftRightskip=\skip54
+\RaggedRightRightskip=\skip55
+\CenteringParfillskip=\skip56
+\RaggedLeftParfillskip=\skip57
+\RaggedRightParfillskip=\skip58
+\JustifyingParfillskip=\skip59
+\CenteringParindent=\skip60
+\RaggedLeftParindent=\skip61
+\RaggedRightParindent=\skip62
+\JustifyingParindent=\skip63
+)
+<figures/cover.jpg, id=126, 2481.27pt x 1862.96pt>
+File: figures/cover.jpg Graphic file (type jpg)
+ <use figures/cover.jpg>
+Package pdftex.def Info: figures/cover.jpg used on input line 85.
+(pdftex.def)             Requested size: 341.43306pt x 256.34967pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 92.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 92.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/Minas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Mi
+nas/Desktop/OpenBionicsGuide/figures/cover.jpg>]
+<figures/License.png, id=135, 97.0827pt x 33.9669pt>
+File: figures/License.png Graphic file (type png)
+ <use figures/License.png>
+Package pdftex.def Info: figures/License.png used on input line 102.
+(pdftex.def)             Requested size: 56.9055pt x 19.90968pt.
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 101--109
+[]$[]$ $[]$ 
+ []
+
+<figures/openbionics.png, id=139, 430.2474pt x 152.2488pt>
+File: figures/openbionics.png Graphic file (type png)
+
+<use figures/openbionics.png>
+Package pdftex.def Info: figures/openbionics.png used on input line 113.
+(pdftex.def)             Requested size: 227.62204pt x 80.54742pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 118.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.127 \newpage
+               [1 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/License.png>
+ <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/openbionics.png>]
+(C:\Users\Minas\Desktop\OpenBionicsGuide\OpenBionics_ProstheticHandsGuide2015.t
+oc)
+\tf@toc=\write5
+ [2
+
+] (C:\Users\Minas\Desktop\OpenBionicsGuide\Description.tex [3
+
+]
+<figures/paper_images/thumbmechanism.jpg, id=213, 602.25pt x 513.92pt>
+File: figures/paper_images/thumbmechanism.jpg Graphic file (type jpg)
+
+<use figures/paper_images/thumbmechanism.jpg>
+Package pdftex.def Info: figures/paper_images/thumbmechanism.jpg used on input 
+line 43.
+(pdftex.def)             Requested size: 182.09746pt x 155.39265pt.
+ [4 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/paper_images/thumbmechanis
+m.jpg>]
+<figures/paper_images/whiffletree.jpg, id=229, 405.515pt x 483.8075pt>
+File: figures/paper_images/whiffletree.jpg Graphic file (type jpg)
+
+<use figures/paper_images/whiffletree.jpg>
+Package pdftex.def Info: figures/paper_images/whiffletree.jpg used on input lin
+e 55.
+(pdftex.def)             Requested size: 227.62204pt x 271.57262pt.
+
+<figures/paper_images/buttons.JPG, id=232, 608.2725pt x 752.8125pt>
+File: figures/paper_images/buttons.JPG Graphic file (type jpg)
+
+<use figures/paper_images/buttons.JPG>
+Package pdftex.def Info: figures/paper_images/buttons.JPG used on input line 71
+.
+(pdftex.def)             Requested size: 206.912pt x 256.0748pt.
+
+<figures/paper_images/servobase.jpg, id=233, 362.35374pt x 456.70625pt>
+File: figures/paper_images/servobase.jpg Graphic file (type jpg)
+
+<use figures/paper_images/servobase.jpg>
+Package pdftex.def Info: figures/paper_images/servobase.jpg used on input line 
+72.
+(pdftex.def)             Requested size: 203.17657pt x 256.0748pt.
+
+Overfull \hbox (7.29723pt too wide) in paragraph at lines 70--75
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/paper_images/whiffletree.jp
+g>] <figures/paper_images/hand1.jpg, id=246, 401.5pt x 475.7775pt>
+File: figures/paper_images/hand1.jpg Graphic file (type jpg)
+
+<use figures/paper_images/hand1.jpg>
+Package pdftex.def Info: figures/paper_images/hand1.jpg used on input line 111.
+
+(pdftex.def)             Requested size: 81.63412pt x 96.73918pt.
+
+<figures/paper_images/hand2.jpg, id=247, 401.5pt x 717.68124pt>
+File: figures/paper_images/hand2.jpg Graphic file (type jpg)
+
+<use figures/paper_images/hand2.jpg>
+Package pdftex.def Info: figures/paper_images/hand2.jpg used on input line 112.
+
+(pdftex.def)             Requested size: 54.11438pt x 96.73918pt.
+
+<figures/paper_images/hand3.jpg, id=248, 401.5pt x 520.94624pt>
+File: figures/paper_images/hand3.jpg Graphic file (type jpg)
+
+<use figures/paper_images/hand3.jpg>
+Package pdftex.def Info: figures/paper_images/hand3.jpg used on input line 113.
+
+(pdftex.def)             Requested size: 74.55814pt x 96.73918pt.
+
+<figures/paper_images/hand4.jpg, id=249, 401.5pt x 523.9575pt>
+File: figures/paper_images/hand4.jpg Graphic file (type jpg)
+
+<use figures/paper_images/hand4.jpg>
+Package pdftex.def Info: figures/paper_images/hand4.jpg used on input line 114.
+
+(pdftex.def)             Requested size: 74.12929pt x 96.73918pt.
+ [6 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/paper_images/buttons.JPG> 
+<C:/Users/Minas/Desktop/OpenBionicsGuide/figures/paper_images/servobase.jpg>]
+<figures/paper_images/indexforces.jpg, id=261, 602.25pt x 329.23pt>
+File: figures/paper_images/indexforces.jpg Graphic file (type jpg)
+
+<use figures/paper_images/indexforces.jpg>
+Package pdftex.def Info: figures/paper_images/indexforces.jpg used on input lin
+e 132.
+(pdftex.def)             Requested size: 132.4954pt x 72.43082pt.
+
+<figures/paper_images/indexmiddleforces.jpg, id=262, 602.25pt x 333.245pt>
+File: figures/paper_images/indexmiddleforces.jpg Graphic file (type jpg)
+
+<use figures/paper_images/indexmiddleforces.jpg>
+Package pdftex.def Info: figures/paper_images/indexmiddleforces.jpg used on inp
+ut line 133.
+(pdftex.def)             Requested size: 132.4954pt x 73.31412pt.
+
+<figures/paper_images/indexmiddleringforces.jpg, id=263, 602.25pt x 327.2225pt>
+File: figures/paper_images/indexmiddleringforces.jpg Graphic file (type jpg)
+<use figures/paper_images/indexmiddleringforces.jpg>
+Package pdftex.def Info: figures/paper_images/indexmiddleringforces.jpg used on
+ input line 134.
+(pdftex.def)             Requested size: 132.4954pt x 71.98917pt.
+
+<figures/paper_images/fingersforces.jpg, id=264, 602.25pt x 330.23375pt>
+File: figures/paper_images/fingersforces.jpg Graphic file (type jpg)
+
+<use figures/paper_images/fingersforces.jpg>
+Package pdftex.def Info: figures/paper_images/fingersforces.jpg used on input l
+ine 135.
+(pdftex.def)             Requested size: 132.4954pt x 72.65164pt.
+
+<figures/paper_images/thumbforces.jpg, id=265, 602.25pt x 336.25626pt>
+File: figures/paper_images/thumbforces.jpg Graphic file (type jpg)
+
+<use figures/paper_images/thumbforces.jpg>
+Package pdftex.def Info: figures/paper_images/thumbforces.jpg used on input lin
+e 136.
+(pdftex.def)             Requested size: 132.4954pt x 73.9766pt.
+
+Overfull \hbox (6.69487pt too wide) in paragraph at lines 131--138
+ [][] 
+ []
+
+<figures/paper_images/index.jpg, id=268, 401.5pt x 607.26875pt>
+File: figures/paper_images/index.jpg Graphic file (type jpg)
+
+<use figures/paper_images/index.jpg>
+Package pdftex.def Info: figures/paper_images/index.jpg used on input line 156.
+
+(pdftex.def)             Requested size: 94.05844pt x 142.26378pt.
+
+<figures/paper_images/middle.jpg, id=269, 401.5pt x 620.3175pt>
+File: figures/paper_images/middle.jpg Graphic file (type jpg)
+
+<use figures/paper_images/middle.jpg>
+Package pdftex.def Info: figures/paper_images/middle.jpg used on input line 156
+.
+(pdftex.def)             Requested size: 92.07962pt x 142.26378pt.
+
+<figures/paper_images/ring.jpg, id=270, 401.5pt x 585.18625pt>
+File: figures/paper_images/ring.jpg Graphic file (type jpg)
+
+<use figures/paper_images/ring.jpg>
+Package pdftex.def Info: figures/paper_images/ring.jpg used on input line 156.
+(pdftex.def)             Requested size: 97.60562pt x 142.26378pt.
+
+<figures/paper_images/pinky.jpg, id=271, 401.5pt x 519.9425pt>
+File: figures/paper_images/pinky.jpg Graphic file (type jpg)
+
+<use figures/paper_images/pinky.jpg>
+Package pdftex.def Info: figures/paper_images/pinky.jpg used on input line 156.
+
+(pdftex.def)             Requested size: 109.85226pt x 142.26378pt.
+
+<figures/paper_images/index_free.jpg, id=272, 401.5pt x 577.15625pt>
+File: figures/paper_images/index_free.jpg Graphic file (type jpg)
+
+<use figures/paper_images/index_free.jpg>
+Package pdftex.def Info: figures/paper_images/index_free.jpg used on input line
+ 167.
+(pdftex.def)             Requested size: 98.96567pt x 142.26378pt.
+
+<figures/paper_images/peace.jpg, id=273, 602.25pt x 994.71625pt>
+File: figures/paper_images/peace.jpg Graphic file (type jpg)
+
+<use figures/paper_images/peace.jpg>
+Package pdftex.def Info: figures/paper_images/peace.jpg used on input line 168.
+
+(pdftex.def)             Requested size: 86.13396pt x 142.26378pt.
+
+<figures/paper_images/ring_free.jpg, id=274, 401.5pt x 600.2425pt>
+File: figures/paper_images/ring_free.jpg Graphic file (type jpg)
+
+<use figures/paper_images/ring_free.jpg>
+Package pdftex.def Info: figures/paper_images/ring_free.jpg used on input line 
+169.
+(pdftex.def)             Requested size: 95.15506pt x 142.26378pt.
+
+<figures/paper_images/metal.jpg, id=275, 602.25pt x 895.345pt>
+File: figures/paper_images/metal.jpg Graphic file (type jpg)
+
+<use figures/paper_images/metal.jpg>
+Package pdftex.def Info: figures/paper_images/metal.jpg used on input line 170.
+
+(pdftex.def)             Requested size: 95.69112pt x 142.26378pt.
+ [7 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/paper_images/hand1.jpg> <C
+:/Users/Minas/Desktop/OpenBionicsGuide/figures/paper_images/hand2.jpg> <C:/User
+s/Minas/Desktop/OpenBionicsGuide/figures/paper_images/hand3.jpg> <C:/Users/Mina
+s/Desktop/OpenBionicsGuide/figures/paper_images/hand4.jpg> <C:/Users/Minas/Desk
+top/OpenBionicsGuide/figures/paper_images/indexforces.jpg> <C:/Users/Minas/Desk
+top/OpenBionicsGuide/figures/paper_images/indexmiddleforces.jpg> <C:/Users/Mina
+s/Desktop/OpenBionicsGuide/figures/paper_images/indexmiddleringforces.jpg> <C:/
+Users/Minas/Desktop/OpenBionicsGuide/figures/paper_images/fingersforces.jpg> <C
+:/Users/Minas/Desktop/OpenBionicsGuide/figures/paper_images/thumbforces.jpg>]
+<figures/paper_images/experiment1.jpg, id=289, 452.69125pt x 420.57124pt>
+File: figures/paper_images/experiment1.jpg Graphic file (type jpg)
+
+<use figures/paper_images/experiment1.jpg>
+Package pdftex.def Info: figures/paper_images/experiment1.jpg used on input lin
+e 198.
+(pdftex.def)             Requested size: 122.50456pt x 113.81102pt.
+
+<figures/paper_images/experiment2.jpg, id=290, 293.095pt x 380.42125pt>
+File: figures/paper_images/experiment2.jpg Graphic file (type jpg)
+
+<use figures/paper_images/experiment2.jpg>
+Package pdftex.def Info: figures/paper_images/experiment2.jpg used on input lin
+e 198.
+(pdftex.def)             Requested size: 87.6832pt x 113.81102pt.
+
+<figures/paper_images/experiment3.jpg, id=291, 246.9225pt x 312.16624pt>
+File: figures/paper_images/experiment3.jpg Graphic file (type jpg)
+
+<use figures/paper_images/experiment3.jpg>
+Package pdftex.def Info: figures/paper_images/experiment3.jpg used on input lin
+e 198.
+(pdftex.def)             Requested size: 90.02234pt x 113.81102pt.
+
+<figures/paper_images/experiment4.jpg, id=292, 419.5675pt x 565.11125pt>
+File: figures/paper_images/experiment4.jpg Graphic file (type jpg)
+
+<use figures/paper_images/experiment4.jpg>
+Package pdftex.def Info: figures/paper_images/experiment4.jpg used on input lin
+e 198.
+(pdftex.def)             Requested size: 84.4946pt x 113.81102pt.
+
+Overfull \hbox (3.7907pt too wide) in paragraph at lines 198--199
+ [][] 
+ []
+
+[8 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/paper_images/index.jpg> <C:
+/Users/Minas/Desktop/OpenBionicsGuide/figures/paper_images/middle.jpg> <C:/User
+s/Minas/Desktop/OpenBionicsGuide/figures/paper_images/ring.jpg> <C:/Users/Minas
+/Desktop/OpenBionicsGuide/figures/paper_images/pinky.jpg> <C:/Users/Minas/Deskt
+op/OpenBionicsGuide/figures/paper_images/index_free.jpg> <C:/Users/Minas/Deskto
+p/OpenBionicsGuide/figures/paper_images/peace.jpg> <C:/Users/Minas/Desktop/Open
+BionicsGuide/figures/paper_images/ring_free.jpg> <C:/Users/Minas/Desktop/OpenBi
+onicsGuide/figures/paper_images/metal.jpg>]) [9 <C:/Users/Minas/Desktop/OpenBio
+nicsGuide/figures/paper_images/experiment1.jpg> <C:/Users/Minas/Desktop/OpenBio
+nicsGuide/figures/paper_images/experiment2.jpg> <C:/Users/Minas/Desktop/OpenBio
+nicsGuide/figures/paper_images/experiment3.jpg> <C:/Users/Minas/Desktop/OpenBio
+nicsGuide/figures/paper_images/experiment4.jpg>]
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix1.tex
+<figures/Tools/needles.jpg, id=302, 426.59375pt x 444.66125pt>
+File: figures/Tools/needles.jpg Graphic file (type jpg)
+
+<use figures/Tools/needles.jpg>
+Package pdftex.def Info: figures/Tools/needles.jpg used on input line 31.
+(pdftex.def)             Requested size: 56.9055pt x 59.31425pt.
+
+<figures/Tools/ruler.png, id=303, 342.68025pt x 39.7485pt>
+File: figures/Tools/ruler.png Graphic file (type png)
+
+<use figures/Tools/ruler.png>
+Package pdftex.def Info: figures/Tools/ruler.png used on input line 31.
+(pdftex.def)             Requested size: 142.26378pt x 16.50137pt.
+
+<figures/Tools/NeedleNosePliers.png, id=304, 134.904pt x 72.87225pt>
+File: figures/Tools/NeedleNosePliers.png Graphic file (type png)
+
+<use figures/Tools/NeedleNosePliers.png>
+Package pdftex.def Info: figures/Tools/NeedleNosePliers.png used on input line 
+31.
+(pdftex.def)             Requested size: 85.35826pt x 46.10991pt.
+
+<figures/Tools/Cutter.jpg, id=305, 88.8921pt x 32.0397pt>
+File: figures/Tools/Cutter.jpg Graphic file (type jpg)
+
+<use figures/Tools/Cutter.jpg>
+Package pdftex.def Info: figures/Tools/Cutter.jpg used on input line 31.
+(pdftex.def)             Requested size: 113.81102pt x 41.02141pt.
+
+<figures/Tools/scissors.png, id=306, 386.44376pt x 386.44376pt>
+File: figures/Tools/scissors.png Graphic file (type png)
+
+<use figures/Tools/scissors.png>
+Package pdftex.def Info: figures/Tools/scissors.png used on input line 31.
+(pdftex.def)             Requested size: 85.35826pt x 85.35399pt.
+
+<figures/Tools/ScrewDriver.png, id=307, 361.35pt x 268.6035pt>
+File: figures/Tools/ScrewDriver.png Graphic file (type png)
+
+<use figures/Tools/ScrewDriver.png>
+Package pdftex.def Info: figures/Tools/ScrewDriver.png used on input line 31.
+(pdftex.def)             Requested size: 113.81102pt x 84.59825pt.
+
+<figures/Tools/Open-endWrench.jpg, id=308, 300.12125pt x 117.43875pt>
+File: figures/Tools/Open-endWrench.jpg Graphic file (type jpg)
+
+<use figures/Tools/Open-endWrench.jpg>
+Package pdftex.def Info: figures/Tools/Open-endWrench.jpg used on input line 31
+.
+(pdftex.def)             Requested size: 85.35826pt x 33.4005pt.
+
+<figures/Tools/AllenWrench.png, id=309, 151.16475pt x 61.4295pt>
+File: figures/Tools/AllenWrench.png Graphic file (type png)
+
+<use figures/Tools/AllenWrench.png>
+Package pdftex.def Info: figures/Tools/AllenWrench.png used on input line 31.
+(pdftex.def)             Requested size: 113.81102pt x 46.24915pt.
+
+<figures/Tools/FishingLine.jpg, id=310, 170.6375pt x 140.525pt>
+File: figures/Tools/FishingLine.jpg Graphic file (type jpg)
+
+<use figures/Tools/FishingLine.jpg>
+Package pdftex.def Info: figures/Tools/FishingLine.jpg used on input line 54.
+(pdftex.def)             Requested size: 56.9055pt x 46.86227pt.
+
+<figures/Tools/Glue.jpg, id=311, 77.088pt x 98.769pt>
+File: figures/Tools/Glue.jpg Graphic file (type jpg)
+
+<use figures/Tools/Glue.jpg>
+Package pdftex.def Info: figures/Tools/Glue.jpg used on input line 54.
+(pdftex.def)             Requested size: 42.67912pt x 54.68329pt.
+
+<figures/Tools/Swabs.jpg, id=312, 134.904pt x 86.12175pt>
+File: figures/Tools/Swabs.jpg Graphic file (type jpg)
+
+<use figures/Tools/Swabs.jpg>
+Package pdftex.def Info: figures/Tools/Swabs.jpg used on input line 54.
+(pdftex.def)             Requested size: 71.13188pt x 45.4117pt.
+
+<figures/Tools/Silicone.jpg, id=313, 240.9pt x 180.675pt>
+File: figures/Tools/Silicone.jpg Graphic file (type jpg)
+
+<use figures/Tools/Silicone.jpg>
+Package pdftex.def Info: figures/Tools/Silicone.jpg used on input line 54.
+(pdftex.def)             Requested size: 71.13188pt x 53.34828pt.
+
+<figures/Tools/ABS_3mm.jpg, id=314, 401.5pt x 401.5pt>
+File: figures/Tools/ABS_3mm.jpg Graphic file (type jpg)
+
+<use figures/Tools/ABS_3mm.jpg>
+Package pdftex.def Info: figures/Tools/ABS_3mm.jpg used on input line 54.
+(pdftex.def)             Requested size: 56.9055pt x 56.90189pt.
+
+<figures/Tools/Tapes.jpg, id=315, 401.5pt x 302.12875pt>
+File: figures/Tools/Tapes.jpg Graphic file (type jpg)
+
+<use figures/Tools/Tapes.jpg>
+Package pdftex.def Info: figures/Tools/Tapes.jpg used on input line 54.
+(pdftex.def)             Requested size: 71.13188pt x 53.52335pt.
+) [10
+
+
+ <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Tools/needles.jpg> <C:/Users/
+Minas/Desktop/OpenBionicsGuide/figures/Tools/ruler.png> <C:/Users/Minas/Desktop
+/OpenBionicsGuide/figures/Tools/NeedleNosePliers.png> <C:/Users/Minas/Desktop/O
+penBionicsGuide/figures/Tools/Cutter.jpg> <C:/Users/Minas/Desktop/OpenBionicsGu
+ide/figures/Tools/scissors.png> <C:/Users/Minas/Desktop/OpenBionicsGuide/figure
+s/Tools/ScrewDriver.png> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Tools
+/Open-endWrench.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Tools/All
+enWrench.png> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Tools/FishingLin
+e.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Tools/Glue.jpg> <C:/Use
+rs/Minas/Desktop/OpenBionicsGuide/figures/Tools/Swabs.jpg> <C:/Users/Minas/Desk
+top/OpenBionicsGuide/figures/Tools/Silicone.jpg> <C:/Users/Minas/Desktop/OpenBi
+onicsGuide/figures/Tools/ABS_3mm.jpg (PNG copy)> <C:/Users/Minas/Desktop/OpenBi
+onicsGuide/figures/Tools/Tapes.jpg>]
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix2.tex
+Overfull \hbox (18.00887pt too wide) in paragraph at lines 35--36
+ [][] 
+ []
+
+<figures/Parts/index.jpg, id=326, 456.70625pt x 571.13374pt>
+File: figures/Parts/index.jpg Graphic file (type jpg)
+
+<use figures/Parts/index.jpg>
+Package pdftex.def Info: figures/Parts/index.jpg used on input line 42.
+(pdftex.def)             Requested size: 79.6678pt x 99.62746pt.
+
+<figures/Parts/middle.jpg, id=327, 438.63875pt x 547.04375pt>
+File: figures/Parts/middle.jpg Graphic file (type jpg)
+
+<use figures/Parts/middle.jpg>
+Package pdftex.def Info: figures/Parts/middle.jpg used on input line 43.
+(pdftex.def)             Requested size: 85.35826pt x 106.45189pt.
+
+<figures/Parts/ring.jpg, id=328, 438.63875pt x 547.04375pt>
+File: figures/Parts/ring.jpg Graphic file (type jpg)
+
+<use figures/Parts/ring.jpg>
+Package pdftex.def Info: figures/Parts/ring.jpg used on input line 44.
+(pdftex.def)             Requested size: 85.35826pt x 106.45189pt.
+
+<figures/Parts/pinky.jpg, id=329, 438.63875pt x 547.04375pt>
+File: figures/Parts/pinky.jpg Graphic file (type jpg)
+
+<use figures/Parts/pinky.jpg>
+Package pdftex.def Info: figures/Parts/pinky.jpg used on input line 45.
+(pdftex.def)             Requested size: 76.82234pt x 95.8092pt.
+
+<figures/Parts/thumb.jpg, id=330, 438.63875pt x 549.05125pt>
+File: figures/Parts/thumb.jpg Graphic file (type jpg)
+
+<use figures/Parts/thumb.jpg>
+Package pdftex.def Info: figures/Parts/thumb.jpg used on input line 47.
+(pdftex.def)             Requested size: 76.82234pt x 96.1608pt.
+
+<figures/Parts/Tube.png, id=331, 209.1012pt x 107.4414pt>
+File: figures/Parts/Tube.png Graphic file (type png)
+
+<use figures/Parts/Tube.png>
+Package pdftex.def Info: figures/Parts/Tube.png used on input line 48.
+(pdftex.def)             Requested size: 85.35826pt x 43.85944pt.
+
+<figures/Parts/SiliconeSheet.jpg, id=332, 208.1376pt x 202.356pt>
+File: figures/Parts/SiliconeSheet.jpg Graphic file (type jpg)
+
+<use figures/Parts/SiliconeSheet.jpg>
+Package pdftex.def Info: figures/Parts/SiliconeSheet.jpg used on input line 49.
+
+(pdftex.def)             Requested size: 85.35826pt x 82.9881pt.
+ [11
+
+
+ <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/index.jpg> <C:/Users/Mi
+nas/Desktop/OpenBionicsGuide/figures/Parts/middle.jpg> <C:/Users/Minas/Desktop/
+OpenBionicsGuide/figures/Parts/ring.jpg> <C:/Users/Minas/Desktop/OpenBionicsGui
+de/figures/Parts/pinky.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Pa
+rts/thumb.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/Tube.png>
+ <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/SiliconeSheet.jpg>]
+<figures/Parts/palmUp.jpg, id=339, 338.26375pt x 475.7775pt>
+File: figures/Parts/palmUp.jpg Graphic file (type jpg)
+
+<use figures/Parts/palmUp.jpg>
+Package pdftex.def Info: figures/Parts/palmUp.jpg used on input line 119.
+(pdftex.def)             Requested size: 99.58464pt x 140.07pt.
+
+<figures/Parts/barIndexMiddle.jpg, id=340, 565.11125pt x 424.58624pt>
+File: figures/Parts/barIndexMiddle.jpg Graphic file (type jpg)
+
+<use figures/Parts/barIndexMiddle.jpg>
+Package pdftex.def Info: figures/Parts/barIndexMiddle.jpg used on input line 11
+9.
+(pdftex.def)             Requested size: 91.04872pt x 68.40164pt.
+
+<figures/Parts/barRingPinky.jpg, id=341, 565.11125pt x 424.58624pt>
+File: figures/Parts/barRingPinky.jpg Graphic file (type jpg)
+
+<use figures/Parts/barRingPinky.jpg>
+Package pdftex.def Info: figures/Parts/barRingPinky.jpg used on input line 119.
+
+(pdftex.def)             Requested size: 85.35826pt x 64.1322pt.
+
+<figures/Parts/PlasticSpacer.jpg, id=342, 123.8226pt x 116.1138pt>
+File: figures/Parts/PlasticSpacer.jpg Graphic file (type jpg)
+
+<use figures/Parts/PlasticSpacer.jpg>
+Package pdftex.def Info: figures/Parts/PlasticSpacer.jpg used on input line 119
+.
+(pdftex.def)             Requested size: 28.45274pt x 26.6808pt.
+
+<figures/Parts/palmDown.jpg, id=343, 307.1475pt x 486.81876pt>
+File: figures/Parts/palmDown.jpg Graphic file (type jpg)
+
+<use figures/Parts/palmDown.jpg>
+Package pdftex.def Info: figures/Parts/palmDown.jpg used on input line 119.
+(pdftex.def)             Requested size: 93.89418pt x 148.81749pt.
+
+<figures/Parts/mainBar.jpg, id=344, 592.2125pt x 444.66125pt>
+File: figures/Parts/mainBar.jpg Graphic file (type jpg)
+
+<use figures/Parts/mainBar.jpg>
+Package pdftex.def Info: figures/Parts/mainBar.jpg used on input line 119.
+(pdftex.def)             Requested size: 113.81102pt x 85.44998pt.
+
+<figures/Parts/basePulleyInsidePalm.jpg, id=345, 565.11125pt x 424.58624pt>
+File: figures/Parts/basePulleyInsidePalm.jpg Graphic file (type jpg)
+
+<use figures/Parts/basePulleyInsidePalm.jpg>
+Package pdftex.def Info: figures/Parts/basePulleyInsidePalm.jpg used on input l
+ine 119.
+(pdftex.def)             Requested size: 56.9055pt x 42.75264pt.
+
+<figures/Parts/M3ThreadRod.jpg, id=346, 47.6982pt x 155.6214pt>
+File: figures/Parts/M3ThreadRod.jpg Graphic file (type jpg)
+
+<use figures/Parts/M3ThreadRod.jpg>
+Package pdftex.def Info: figures/Parts/M3ThreadRod.jpg used on input line 119.
+(pdftex.def)             Requested size: 25.6073pt x 83.5475pt.
+
+<figures/Parts/Pulley.jpg, id=347, 81.4242pt x 101.6598pt>
+File: figures/Parts/Pulley.jpg Graphic file (type jpg)
+
+<use figures/Parts/Pulley.jpg>
+Package pdftex.def Info: figures/Parts/Pulley.jpg used on input line 119.
+(pdftex.def)             Requested size: 39.83368pt x 49.73306pt.
+
+<figures/Parts/ScrewM3x12.jpg, id=348, 122.3772pt x 103.587pt>
+File: figures/Parts/ScrewM3x12.jpg Graphic file (type jpg)
+
+<use figures/Parts/ScrewM3x12.jpg>
+Package pdftex.def Info: figures/Parts/ScrewM3x12.jpg used on input line 119.
+(pdftex.def)             Requested size: 51.21504pt x 43.35133pt.
+
+<figures/Parts/WasherM3.jpg, id=349, 140.2038pt x 106.9596pt>
+File: figures/Parts/WasherM3.jpg Graphic file (type jpg)
+
+<use figures/Parts/WasherM3.jpg>
+Package pdftex.def Info: figures/Parts/WasherM3.jpg used on input line 119.
+(pdftex.def)             Requested size: 25.6073pt x 19.53424pt.
+
+<figures/Parts/NutM3.jpg, id=350, 83.3514pt x 77.088pt>
+File: figures/Parts/NutM3.jpg Graphic file (type jpg)
+
+<use figures/Parts/NutM3.jpg>
+Package pdftex.def Info: figures/Parts/NutM3.jpg used on input line 119.
+(pdftex.def)             Requested size: 39.83368pt x 36.84183pt.
+
+Overfull \hbox (15.69946pt too wide) in paragraph at lines 122--123
+ [] 
+ []
+
+[12 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/palmUp.jpg> <C:/User
+s/Minas/Desktop/OpenBionicsGuide/figures/Parts/barIndexMiddle.jpg> <C:/Users/Mi
+nas/Desktop/OpenBionicsGuide/figures/Parts/barRingPinky.jpg> <C:/Users/Minas/De
+sktop/OpenBionicsGuide/figures/Parts/PlasticSpacer.jpg> <C:/Users/Minas/Desktop
+/OpenBionicsGuide/figures/Parts/palmDown.jpg> <C:/Users/Minas/Desktop/OpenBioni
+csGuide/figures/Parts/mainBar.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/fig
+ures/Parts/basePulleyInsidePalm.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/f
+igures/Parts/M3ThreadRod.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/
+Parts/Pulley.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/ScrewM
+3x12.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/WasherM3.jpg> 
+<C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/NutM3.jpg>]
+Overfull \hbox (73.59143pt too wide) in paragraph at lines 169--170
+ [][] 
+ []
+
+<figures/Parts/baseHerkulex.jpg, id=357, 496.85625pt x 507.8975pt>
+File: figures/Parts/baseHerkulex.jpg Graphic file (type jpg)
+
+<use figures/Parts/baseHerkulex.jpg>
+Package pdftex.def Info: figures/Parts/baseHerkulex.jpg used on input line 178.
+
+(pdftex.def)             Requested size: 88.2037pt x 90.16212pt.
+
+<figures/Parts/thumbMovingMechanism.jpg, id=358, 435.6275pt x 380.42125pt>
+File: figures/Parts/thumbMovingMechanism.jpg Graphic file (type jpg)
+
+<use figures/Parts/thumbMovingMechanism.jpg>
+Package pdftex.def Info: figures/Parts/thumbMovingMechanism.jpg used on input l
+ine 179.
+(pdftex.def)             Requested size: 76.82234pt x 67.08553pt.
+
+<figures/Parts/pulleyServo.jpg, id=359, 828.09375pt x 586.19pt>
+File: figures/Parts/pulleyServo.jpg Graphic file (type jpg)
+
+<use figures/Parts/pulleyServo.jpg>
+Package pdftex.def Info: figures/Parts/pulleyServo.jpg used on input line 180.
+(pdftex.def)             Requested size: 93.89418pt x 66.45784pt.
+
+<figures/Parts/toothedMechanism.jpg, id=360, 828.09375pt x 586.19pt>
+File: figures/Parts/toothedMechanism.jpg Graphic file (type jpg)
+
+<use figures/Parts/toothedMechanism.jpg>
+Package pdftex.def Info: figures/Parts/toothedMechanism.jpg used on input line 
+182.
+(pdftex.def)             Requested size: 96.73918pt x 68.4793pt.
+
+<figures/Parts/thumbButton.jpg, id=361, 828.09375pt x 586.19pt>
+File: figures/Parts/thumbButton.jpg Graphic file (type jpg)
+
+<use figures/Parts/thumbButton.jpg>
+Package pdftex.def Info: figures/Parts/thumbButton.jpg used on input line 183.
+(pdftex.def)             Requested size: 54.06006pt x 38.26468pt.
+
+<figures/Parts/toothedBlockMechanism.jpg, id=362, 828.09375pt x 586.19pt>
+File: figures/Parts/toothedBlockMechanism.jpg Graphic file (type jpg)
+
+<use figures/Parts/toothedBlockMechanism.jpg>
+Package pdftex.def Info: figures/Parts/toothedBlockMechanism.jpg used on input 
+line 184.
+(pdftex.def)             Requested size: 62.59596pt x 44.30223pt.
+
+<figures/Parts/lockMechanismBracket.jpg, id=363, 547.04375pt x 284.06125pt>
+File: figures/Parts/lockMechanismBracket.jpg Graphic file (type jpg)
+
+<use figures/Parts/lockMechanismBracket.jpg>
+Package pdftex.def Info: figures/Parts/lockMechanismBracket.jpg used on input l
+ine 186.
+(pdftex.def)             Requested size: 65.44142pt x 33.97751pt.
+
+<figures/Parts/lockMechanismSupport.jpg, id=364, 473.77pt x 332.24126pt>
+File: figures/Parts/lockMechanismSupport.jpg Graphic file (type jpg)
+
+<use figures/Parts/lockMechanismSupport.jpg>
+Package pdftex.def Info: figures/Parts/lockMechanismSupport.jpg used on input l
+ine 187.
+(pdftex.def)             Requested size: 45.52458pt x 31.92319pt.
+ [13 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/baseHerkulex.jpg> <
+C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/thumbMovingMechanism.jpg>
+ <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/pulleyServo.jpg> <C:/Us
+ers/Minas/Desktop/OpenBionicsGuide/figures/Parts/toothedMechanism.jpg> <C:/User
+s/Minas/Desktop/OpenBionicsGuide/figures/Parts/thumbButton.jpg> <C:/Users/Minas
+/Desktop/OpenBionicsGuide/figures/Parts/toothedBlockMechanism.jpg> <C:/Users/Mi
+nas/Desktop/OpenBionicsGuide/figures/Parts/lockMechanismBracket.jpg> <C:/Users/
+Minas/Desktop/OpenBionicsGuide/figures/Parts/lockMechanismSupport.jpg>]
+<figures/Parts/supportPulley1.jpg, id=370, 828.09375pt x 586.19pt>
+File: figures/Parts/supportPulley1.jpg Graphic file (type jpg)
+
+<use figures/Parts/supportPulley1.jpg>
+Package pdftex.def Info: figures/Parts/supportPulley1.jpg used on input line 22
+5.
+(pdftex.def)             Requested size: 76.82234pt x 54.37378pt.
+
+<figures/Parts/supportPulleyPalmUpAssem.jpg, id=371, 458.46281pt x 352.31625pt>
+File: figures/Parts/supportPulleyPalmUpAssem.jpg Graphic file (type jpg)
+<use figures/Parts/supportPulleyPalmUpAssem.jpg>
+Package pdftex.def Info: figures/Parts/supportPulleyPalmUpAssem.jpg used on inp
+ut line 225.
+(pdftex.def)             Requested size: 76.82234pt x 59.03282pt.
+
+<figures/Parts/dovetailFemale.jpg, id=372, 828.09375pt x 586.19pt>
+File: figures/Parts/dovetailFemale.jpg Graphic file (type jpg)
+
+<use figures/Parts/dovetailFemale.jpg>
+Package pdftex.def Info: figures/Parts/dovetailFemale.jpg used on input line 22
+5.
+(pdftex.def)             Requested size: 85.35826pt x 60.42027pt.
+
+<figures/Parts/FlangePlate.jpg, id=373, 828.09375pt x 586.19pt>
+File: figures/Parts/FlangePlate.jpg Graphic file (type jpg)
+
+<use figures/Parts/FlangePlate.jpg>
+Package pdftex.def Info: figures/Parts/FlangePlate.jpg used on input line 225.
+(pdftex.def)             Requested size: 142.26378pt x 100.70644pt.
+
+<figures/Parts/buttonBase.jpg, id=374, 828.09375pt x 586.19pt>
+File: figures/Parts/buttonBase.jpg Graphic file (type jpg)
+
+<use figures/Parts/buttonBase.jpg>
+Package pdftex.def Info: figures/Parts/buttonBase.jpg used on input line 225.
+(pdftex.def)             Requested size: 59.75095pt x 42.28972pt.
+
+<figures/Parts/buttonFrame.jpg, id=375, 828.09375pt x 586.19pt>
+File: figures/Parts/buttonFrame.jpg Graphic file (type jpg)
+
+<use figures/Parts/buttonFrame.jpg>
+Package pdftex.def Info: figures/Parts/buttonFrame.jpg used on input line 225.
+(pdftex.def)             Requested size: 59.75095pt x 42.28972pt.
+
+<figures/Parts/buttonAxle.jpg, id=376, 828.09375pt x 586.19pt>
+File: figures/Parts/buttonAxle.jpg Graphic file (type jpg)
+
+<use figures/Parts/buttonAxle.jpg>
+Package pdftex.def Info: figures/Parts/buttonAxle.jpg used on input line 225.
+(pdftex.def)             Requested size: 85.35826pt x 60.42027pt.
+File: figures/Parts/Pulley.jpg Graphic file (type jpg)
+ <use figures/Parts/Pulley.jpg>
+Package pdftex.def Info: figures/Parts/Pulley.jpg used on input line 225.
+(pdftex.def)             Requested size: 39.83368pt x 49.73306pt.
+File: figures/Parts/PlasticSpacer.jpg Graphic file (type jpg)
+
+<use figures/Parts/PlasticSpacer.jpg>
+Package pdftex.def Info: figures/Parts/PlasticSpacer.jpg used on input line 225
+.
+(pdftex.def)             Requested size: 28.45274pt x 26.6808pt.
+File: figures/Parts/ScrewM3x12.jpg Graphic file (type jpg)
+ <use figures/Parts/ScrewM3x12.jpg>
+Package pdftex.def Info: figures/Parts/ScrewM3x12.jpg used on input line 225.
+(pdftex.def)             Requested size: 51.21504pt x 43.35133pt.
+File: figures/Parts/NutM3.jpg Graphic file (type jpg)
+
+<use figures/Parts/NutM3.jpg>
+Package pdftex.def Info: figures/Parts/NutM3.jpg used on input line 225.
+(pdftex.def)             Requested size: 39.83368pt x 36.84183pt.
+File: figures/Parts/M3ThreadRod.jpg Graphic file (type jpg)
+ <use figures/Parts/M3ThreadRod.jpg>
+Package pdftex.def Info: figures/Parts/M3ThreadRod.jpg used on input line 225.
+(pdftex.def)             Requested size: 25.6073pt x 83.5475pt.
+File: figures/Parts/WasherM3.jpg Graphic file (type jpg)
+
+<use figures/Parts/WasherM3.jpg>
+Package pdftex.def Info: figures/Parts/WasherM3.jpg used on input line 225.
+(pdftex.def)             Requested size: 25.6073pt x 19.53424pt.
+File: figures/Parts/NutM3.jpg Graphic file (type jpg)
+ <use figures/Parts/NutM3.jpg>
+Package pdftex.def Info: figures/Parts/NutM3.jpg used on input line 225.
+(pdftex.def)             Requested size: 34.14322pt x 31.57805pt.
+File: figures/Parts/ScrewM3x12.jpg Graphic file (type jpg)
+
+<use figures/Parts/ScrewM3x12.jpg>
+Package pdftex.def Info: figures/Parts/ScrewM3x12.jpg used on input line 225.
+(pdftex.def)             Requested size: 45.52458pt x 38.53365pt.
+ [14 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/supportPulley1.jpg>
+ <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/supportPulleyPalmUpAsse
+m.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/dovetailFemale.jp
+g> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/FlangePlate.jpg> <C:/
+Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/buttonBase.jpg> <C:/Users/Mi
+nas/Desktop/OpenBionicsGuide/figures/Parts/buttonFrame.jpg> <C:/Users/Minas/Des
+ktop/OpenBionicsGuide/figures/Parts/buttonAxle.jpg>] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 303--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--311
+
+ []
+
+<figures/Parts/SilliconeCut.jpg, id=392, 372.39125pt x 289.08pt>
+File: figures/Parts/SilliconeCut.jpg Graphic file (type jpg)
+
+<use figures/Parts/SilliconeCut.jpg>
+Package pdftex.def Info: figures/Parts/SilliconeCut.jpg used on input line 316.
+
+(pdftex.def)             Requested size: 341.43306pt x 265.05698pt.
+) [16 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Parts/SilliconeCut.jpg>]
+
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix3.tex
+<figures/Finger/Finger8.jpg, id=397, 243.309pt x 266.79675pt>
+File: figures/Finger/Finger8.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger8.jpg>
+Package pdftex.def Info: figures/Finger/Finger8.jpg used on input line 65.
+(pdftex.def)             Requested size: 170.71652pt x 187.20424pt.
+
+Overfull \hbox (12.00261pt too wide) in paragraph at lines 64--67
+[][] 
+ []
+
+<figures/Finger/Finger10.jpg, id=398, 280.04625pt x 261.3765pt>
+File: figures/Finger/Finger10.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger10.jpg>
+Package pdftex.def Info: figures/Finger/Finger10.jpg used on input line 92.
+(pdftex.def)             Requested size: 170.71652pt x 159.3397pt.
+
+<figures/Finger/Finger11.jpg, id=399, 113.223pt x 90.3375pt>
+File: figures/Finger/Finger11.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger11.jpg>
+Package pdftex.def Info: figures/Finger/Finger11.jpg used on input line 106.
+(pdftex.def)             Requested size: 85.35826pt x 68.1072pt.
+File: figures/Finger/Finger11.jpg Graphic file (type jpg)
+ <use figures/Finger/Finger11.jpg>
+Package pdftex.def Info: figures/Finger/Finger11.jpg used on input line 111.
+(pdftex.def)             Requested size: 85.35826pt x 68.1072pt.
+
+<figures/Finger/Finger12.jpg, id=400, 126.4725pt x 90.3375pt>
+File: figures/Finger/Finger12.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger12.jpg>
+Package pdftex.def Info: figures/Finger/Finger12.jpg used on input line 116.
+(pdftex.def)             Requested size: 96.73918pt x 69.10106pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17
+
+
+ <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger8.jpg>]
+<figures/Finger/Finger13.jpg, id=407, 214.401pt x 295.1025pt>
+File: figures/Finger/Finger13.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger13.jpg>
+Package pdftex.def Info: figures/Finger/Finger13.jpg used on input line 190.
+(pdftex.def)             Requested size: 128.0374pt x 176.23882pt.
+
+<figures/Finger/Finger14.jpg, id=408, 162.00525pt x 228.855pt>
+File: figures/Finger/Finger14.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger14.jpg>
+Package pdftex.def Info: figures/Finger/Finger14.jpg used on input line 196.
+(pdftex.def)             Requested size: 128.0374pt x 180.87378pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger10.jpg> <C:/U
+sers/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger11.jpg> <C:/Users/Mina
+s/Desktop/OpenBionicsGuide/figures/Finger/Finger12.jpg>]
+<figures/Finger/Finger15.jpg, id=417, 128.8815pt x 119.2455pt>
+File: figures/Finger/Finger15.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger15.jpg>
+Package pdftex.def Info: figures/Finger/Finger15.jpg used on input line 214.
+(pdftex.def)             Requested size: 170.71652pt x 157.95947pt.
+
+Overfull \hbox (9.18323pt too wide) in paragraph at lines 236--245
+[][] 
+ []
+
+<figures/Finger/Finger16.jpg, id=418, 133.6995pt x 113.82526pt>
+File: figures/Finger/Finger16.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger16.jpg>
+Package pdftex.def Info: figures/Finger/Finger16.jpg used on input line 248.
+(pdftex.def)             Requested size: 170.71652pt x 145.35191pt.
+
+<figures/Finger/Finger17.jpg, id=419, 118.64325pt x 111.41624pt>
+File: figures/Finger/Finger17.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger17.jpg>
+Package pdftex.def Info: figures/Finger/Finger17.jpg used on input line 262.
+(pdftex.def)             Requested size: 170.71652pt x 160.32025pt.
+
+Overfull \hbox (10.46095pt too wide) in paragraph at lines 266--273
+[][] 
+ []
+
+[19 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger13.jpg> <C:/U
+sers/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger14.jpg> <C:/Users/Mina
+s/Desktop/OpenBionicsGuide/figures/Finger/Finger15.jpg> <C:/Users/Minas/Desktop
+/OpenBionicsGuide/figures/Finger/Finger16.jpg>]
+<figures/Finger/Finger18.jpg, id=425, 99.37125pt x 176.45924pt>
+File: figures/Finger/Finger18.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger18.jpg>
+Package pdftex.def Info: figures/Finger/Finger18.jpg used on input line 293.
+(pdftex.def)             Requested size: 85.35826pt x 151.57965pt.
+
+<figures/Finger/Finger20.jpg, id=426, 158.994pt x 112.62074pt>
+File: figures/Finger/Finger20.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger20.jpg>
+Package pdftex.def Info: figures/Finger/Finger20.jpg used on input line 318.
+(pdftex.def)             Requested size: 170.71652pt x 120.93088pt.
+
+<figures/Finger/Finger21.jpg, id=427, 142.73325pt x 95.75775pt>
+File: figures/Finger/Finger21.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger21.jpg>
+Package pdftex.def Info: figures/Finger/Finger21.jpg used on input line 332.
+(pdftex.def)             Requested size: 170.71652pt x 114.54196pt.
+
+Overfull \hbox (1.77307pt too wide) in paragraph at lines 347--348
+ [] 
+ []
+
+[20 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger17.jpg> <C:/U
+sers/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger18.jpg> <C:/Users/Mina
+s/Desktop/OpenBionicsGuide/figures/Finger/Finger20.jpg>]
+<figures/Finger/Finger22.jpg, id=432, 174.05025pt x 119.2455pt>
+File: figures/Finger/Finger22.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger22.jpg>
+Package pdftex.def Info: figures/Finger/Finger22.jpg used on input line 373.
+(pdftex.def)             Requested size: 170.71652pt x 116.96167pt.
+
+Overfull \hbox (1.77307pt too wide) in paragraph at lines 378--379
+ [] 
+ []
+
+<figures/Finger/Finger23.jpg, id=433, 242.1045pt x 81.906pt>
+File: figures/Finger/Finger23.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger23.jpg>
+Package pdftex.def Info: figures/Finger/Finger23.jpg used on input line 387.
+(pdftex.def)             Requested size: 199.16928pt x 67.3833pt.
+
+Overfull \hbox (19.1145pt too wide) in paragraph at lines 386--389
+ [][] 
+ []
+
+
+Overfull \hbox (0.68336pt too wide) in paragraph at lines 392--396
+[][] 
+ []
+
+
+Overfull \hbox (1.77307pt too wide) in paragraph at lines 399--400
+ [] 
+ []
+
+[21 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger21.jpg> <C:/U
+sers/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger22.jpg> <C:/Users/Mina
+s/Desktop/OpenBionicsGuide/figures/Finger/Finger23.jpg>]
+<figures/Finger/Finger24.jpg, id=438, 234.8775pt x 74.679pt>
+File: figures/Finger/Finger24.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger24.jpg>
+Package pdftex.def Info: figures/Finger/Finger24.jpg used on input line 437.
+(pdftex.def)             Requested size: 199.16928pt x 63.32588pt.
+
+Overfull \hbox (19.11449pt too wide) in paragraph at lines 436--439
+ [][] 
+ []
+
+
+Overfull \hbox (2.70358pt too wide) in paragraph at lines 442--447
+[][] 
+ []
+
+
+Overfull \hbox (23.11395pt too wide) in paragraph at lines 450--451
+ [] 
+ []
+
+<figures/Finger/Finger26.jpg, id=439, 141.52875pt x 112.62074pt>
+File: figures/Finger/Finger26.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger26.jpg>
+Package pdftex.def Info: figures/Finger/Finger26.jpg used on input line 460.
+(pdftex.def)             Requested size: 199.16928pt x 158.50139pt.
+
+Overfull \hbox (19.11449pt too wide) in paragraph at lines 459--462
+ [][] 
+ []
+
+
+Overfull \hbox (23.11395pt too wide) in paragraph at lines 472--473
+ [] 
+ []
+
+[22 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger24.jpg> <C:/U
+sers/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger26.jpg>]
+<figures/Finger/Finger28.jpg, id=446, 227.6505pt x 65.043pt>
+File: figures/Finger/Finger28.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger28.jpg>
+Package pdftex.def Info: figures/Finger/Finger28.jpg used on input line 507.
+(pdftex.def)             Requested size: 199.16928pt x 56.9075pt.
+
+Overfull \hbox (19.11449pt too wide) in paragraph at lines 506--509
+ [][] 
+ []
+
+
+Overfull \hbox (1.77307pt too wide) in paragraph at lines 520--521
+ [] 
+ []
+
+<figures/Finger/Finger29.jpg, id=447, 235.47975pt x 63.8385pt>
+File: figures/Finger/Finger29.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger29.jpg>
+Package pdftex.def Info: figures/Finger/Finger29.jpg used on input line 537.
+(pdftex.def)             Requested size: 184.9429pt x 50.13962pt.
+
+Overfull \hbox (4.8881pt too wide) in paragraph at lines 536--539
+[][] 
+ []
+
+
+Overfull \hbox (1.77307pt too wide) in paragraph at lines 542--543
+ [] 
+ []
+
+<figures/Finger/Finger31.jpg, id=448, 217.41225pt x 57.816pt>
+File: figures/Finger/Finger31.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger31.jpg>
+Package pdftex.def Info: figures/Finger/Finger31.jpg used on input line 552.
+(pdftex.def)             Requested size: 199.16928pt x 52.9655pt.
+
+Overfull \hbox (19.11449pt too wide) in paragraph at lines 551--554
+ [][] 
+ []
+
+
+Overfull \hbox (1.77307pt too wide) in paragraph at lines 568--569
+ [] 
+ []
+
+<figures/Finger/Finger32.jpg, id=449, 209.583pt x 84.91725pt>
+File: figures/Finger/Finger32.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger32.jpg>
+Package pdftex.def Info: figures/Finger/Finger32.jpg used on input line 578.
+(pdftex.def)             Requested size: 199.16928pt x 80.69943pt.
+
+Overfull \hbox (19.11449pt too wide) in paragraph at lines 577--580
+ [][] 
+ []
+
+
+Overfull \hbox (1.77307pt too wide) in paragraph at lines 590--591
+ [] 
+ []
+
+[23 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger28.jpg> <C:/U
+sers/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger29.jpg> <C:/Users/Mina
+s/Desktop/OpenBionicsGuide/figures/Finger/Finger31.jpg> <C:/Users/Minas/Desktop
+/OpenBionicsGuide/figures/Finger/Finger32.jpg>]
+<figures/Finger/Finger33.jpg, id=455, 245.11575pt x 62.634pt>
+File: figures/Finger/Finger33.jpg Graphic file (type jpg)
+
+<use figures/Finger/Finger33.jpg>
+Package pdftex.def Info: figures/Finger/Finger33.jpg used on input line 611.
+(pdftex.def)             Requested size: 227.62204pt x 58.1649pt.
+
+Overfull \hbox (13.42316pt too wide) in paragraph at lines 610--613
+[][] 
+ []
+
+) [24 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Finger/Finger33.jpg>]
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix4.tex
+<figures/Hand/palmUp_fingers_re.jpg, id=461, 963.6pt x 542.025pt>
+File: figures/Hand/palmUp_fingers_re.jpg Graphic file (type jpg)
+
+<use figures/Hand/palmUp_fingers_re.jpg>
+Package pdftex.def Info: figures/Hand/palmUp_fingers_re.jpg used on input line 
+38.
+(pdftex.def)             Requested size: 227.62204pt x 128.03754pt.
+
+Overfull \hbox (47.56725pt too wide) in paragraph at lines 37--40
+ [][] 
+ []
+
+[25
+
+
+ <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUp_fingers_re.jpg>] 
+<figures/Hand/palmUpFingers_buttonBase_re.jpg, id=467, 963.6pt x 542.025pt>
+File: figures/Hand/palmUpFingers_buttonBase_re.jpg Graphic file (type jpg)
+
+<use figures/Hand/palmUpFingers_buttonBase_re.jpg>
+Package pdftex.def Info: figures/Hand/palmUpFingers_buttonBase_re.jpg used on i
+nput line 86.
+(pdftex.def)             Requested size: 198.22038pt x 121.27957pt.
+
+<figures/Hand/palmUpFingersButtonBase_restButton_re.jpg, id=469, 963.6pt x 542.
+025pt>
+File: figures/Hand/palmUpFingersButtonBase_restButton_re.jpg Graphic file (type
+ jpg)
+ <use figures/Hand/palmUpFingersButtonBase_restButton_re.jpg>
+Package pdftex.def Info: figures/Hand/palmUpFingersButtonBase_restButton_re.jpg
+ used on input line 126.
+(pdftex.def)             Requested size: 229.331pt x 145.53697pt.
+
+Overfull \hbox (27.93533pt too wide) in paragraph at lines 125--128
+[][] 
+ []
+
+
+Overfull \hbox (26.89514pt too wide) in paragraph at lines 145--146
+ [] 
+ []
+
+[26 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUpFingers_buttonB
+ase_re.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUpFingers
+ButtonBase_restButton_re.jpg>]
+<figures/Hand/palmDown_toothedMechanism_re.jpg, id=479, 711.4078pt x 441.90094p
+t>
+File: figures/Hand/palmDown_toothedMechanism_re.jpg Graphic file (type jpg)
+ <use figures/Hand/palmDown_toothedMechanism_re.jpg>
+Package pdftex.def Info: figures/Hand/palmDown_toothedMechanism_re.jpg used on 
+input line 173.
+(pdftex.def)             Requested size: 209.44502pt x 123.20107pt.
+
+Overfull \hbox (8.04935pt too wide) in paragraph at lines 172--175
+ [][] 
+ []
+
+
+Overfull \hbox (12.53902pt too wide) in paragraph at lines 177--181
+[][] 
+ []
+
+<figures/Hand/lockingMechanismPreAssembled1.jpg, id=481, 963.6pt x 542.025pt>
+File: figures/Hand/lockingMechanismPreAssembled1.jpg Graphic file (type jpg)
+
+<use figures/Hand/lockingMechanismPreAssembled1.jpg>
+Package pdftex.def Info: figures/Hand/lockingMechanismPreAssembled1.jpg used on
+ input line 208.
+(pdftex.def)             Requested size: 176.88087pt x 128.39275pt.
+
+Overfull \hbox (18.16696pt too wide) in paragraph at lines 207--210
+ [][] 
+ []
+
+[27 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmDown_toothedMecha
+nism_re.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/lockingMecha
+nismPreAssembled1.jpg>]
+<figures/Hand/lockingMechanismPreAssembled2.jpg, id=491, 963.6pt x 542.025pt>
+File: figures/Hand/lockingMechanismPreAssembled2.jpg Graphic file (type jpg)
+
+<use figures/Hand/lockingMechanismPreAssembled2.jpg>
+Package pdftex.def Info: figures/Hand/lockingMechanismPreAssembled2.jpg used on
+ input line 247.
+(pdftex.def)             Requested size: 205.33356pt x 135.5059pt.
+
+Overfull \hbox (12.47556pt too wide) in paragraph at lines 246--249
+ [][] 
+ []
+
+
+Overfull \hbox (18.35748pt too wide) in paragraph at lines 259--260
+ [] 
+ []
+
+
+<figures/Hand/thumbMovingMechansim_lockingMechanism1.jpg, id=493, 963.6pt x 542
+.025pt>
+File: figures/Hand/thumbMovingMechansim_lockingMechanism1.jpg Graphic file (typ
+e jpg)
+ <use figures/Hand/thumbMovingMechansim_lockingMechanism1.jpg>
+Package pdftex.def Info: figures/Hand/thumbMovingMechansim_lockingMechanism1.jp
+g used on input line 286.
+(pdftex.def)             Requested size: 237.86688pt x 162.60875pt.
+
+Overfull \hbox (36.47122pt too wide) in paragraph at lines 285--288
+ [][] 
+ []
+
+
+Overfull \hbox (26.89514pt too wide) in paragraph at lines 299--300
+ [] 
+ []
+
+
+<figures/Hand/thumbMovingMechansim_lockingMechanism2.jpg, id=495, 963.6pt x 542
+.025pt>
+File: figures/Hand/thumbMovingMechansim_lockingMechanism2.jpg Graphic file (typ
+e jpg)
+ <use figures/Hand/thumbMovingMechansim_lockingMechanism2.jpg>
+Package pdftex.def Info: figures/Hand/thumbMovingMechansim_lockingMechanism2.jp
+g used on input line 327.
+(pdftex.def)             Requested size: 174.4349pt x 119.24586pt.
+
+Overfull \hbox (24.25214pt too wide) in paragraph at lines 326--329
+ [][] 
+ []
+
+
+Overfull \hbox (9.39796pt too wide) in paragraph at lines 331--339
+[][] 
+ []
+
+[28 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/lockingMechanismPreAs
+sembled2.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/thumbMoving
+Mechansim_lockingMechanism1.jpg>]
+<figures/Hand/thumbMovingMechansimLockingMechanism_thumb.jpg, id=505, 624.08156
+pt x 494.59781pt>
+File: figures/Hand/thumbMovingMechansimLockingMechanism_thumb.jpg Graphic file 
+(type jpg)
+
+<use figures/Hand/thumbMovingMechansimLockingMechanism_thumb.jpg>
+Package pdftex.def Info: figures/Hand/thumbMovingMechansimLockingMechanism_thum
+b.jpg used on input line 366.
+(pdftex.def)             Requested size: 238.2473pt x 197.8356pt.
+
+Overfull \hbox (36.85162pt too wide) in paragraph at lines 365--368
+ [][] 
+ []
+
+
+Overfull \hbox (26.89514pt too wide) in paragraph at lines 378--379
+ [] 
+ []
+
+[29 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/thumbMovingMechansim_
+lockingMechanism2.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/th
+umbMovingMechansimLockingMechanism_thumb.jpg>]
+<figures/Hand/pulleyInsidePalm_re.jpg, id=515, 963.6pt x 542.025pt>
+File: figures/Hand/pulleyInsidePalm_re.jpg Graphic file (type jpg)
+
+<use figures/Hand/pulleyInsidePalm_re.jpg>
+Package pdftex.def Info: figures/Hand/pulleyInsidePalm_re.jpg used on input lin
+e 409.
+(pdftex.def)             Requested size: 182.35936pt x 97.17836pt.
+
+Overfull \hbox (16.37025pt too wide) in paragraph at lines 413--421
+[][] 
+ []
+
+
+Overfull \hbox (26.89514pt too wide) in paragraph at lines 424--425
+ [] 
+ []
+
+
+<figures/Hand/palmUp_fingers_buttons_upPulley.jpg, id=517, 533.74406pt x 536.75
+531pt>
+File: figures/Hand/palmUp_fingers_buttons_upPulley.jpg Graphic file (type jpg)
+ <use figures/Hand/palmUp_fingers_buttons_upPulley.jpg>
+Package pdftex.def Info: figures/Hand/palmUp_fingers_buttons_upPulley.jpg used 
+on input line 452.
+(pdftex.def)             Requested size: 192.0127pt x 203.96913pt.
+
+Overfull \hbox (26.89514pt too wide) in paragraph at lines 468--469
+ [] 
+ []
+
+[30 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/pulleyInsidePalm_re.j
+pg>]
+<figures/Hand/palmUp_fingers_buttons_upPulley_servoBase.jpg, id=527, 462.97969p
+t x 527.72156pt>
+File: figures/Hand/palmUp_fingers_buttons_upPulley_servoBase.jpg Graphic file (
+type jpg)
+
+<use figures/Hand/palmUp_fingers_buttons_upPulley_servoBase.jpg>
+Package pdftex.def Info: figures/Hand/palmUp_fingers_buttons_upPulley_servoBase
+.jpg used on input line 495.
+(pdftex.def)             Requested size: 150.2451pt x 195.25392pt.
+
+Overfull \hbox (5.55426pt too wide) in paragraph at lines 511--512
+ [] 
+ []
+
+
+<figures/Hand/palmUpComplete_Whiffletree.jpg, id=529, 539.76656pt x 533.74406pt
+>
+File: figures/Hand/palmUpComplete_Whiffletree.jpg Graphic file (type jpg)
+ <use figures/Hand/palmUpComplete_Whiffletree.jpg>
+Package pdftex.def Info: figures/Hand/palmUpComplete_Whiffletree.jpg used on in
+put line 540.
+(pdftex.def)             Requested size: 204.5219pt x 213.49384pt.
+
+Overfull \hbox (3.12622pt too wide) in paragraph at lines 539--542
+ [][] 
+ []
+
+
+Overfull \hbox (26.89514pt too wide) in paragraph at lines 556--557
+ [] 
+ []
+
+[31 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUp_fingers_button
+s_upPulley.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUp_fi
+ngers_buttons_upPulley_servoBase.jpg>]
+<figures/Hand/fastenFlange.jpg, id=538, 625.58719pt x 431.36156pt>
+File: figures/Hand/fastenFlange.jpg Graphic file (type jpg)
+
+<use figures/Hand/fastenFlange.jpg>
+Package pdftex.def Info: figures/Hand/fastenFlange.jpg used on input line 581.
+(pdftex.def)             Requested size: 179.14171pt x 129.40945pt.
+
+Overfull \hbox (26.89514pt too wide) in paragraph at lines 593--594
+ [] 
+ []
+
+
+<figures/Hand/palmTendonRouting_support.jpg, id=540, 596.98032pt x 539.76656pt>
+File: figures/Hand/palmTendonRouting_support.jpg Graphic file (type jpg)
+<use figures/Hand/palmTendonRouting_support.jpg>
+Package pdftex.def Info: figures/Hand/palmTendonRouting_support.jpg used on inp
+ut line 618.
+(pdftex.def)             Requested size: 189.029pt x 188.92113pt.
+ [32 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUpComplete_Whiff
+letree.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/fastenFlange.
+jpg>]
+<figures/Hand/palmUp_palmDown.jpg, id=550, 416.30531pt x 508.90125pt>
+File: figures/Hand/palmUp_palmDown.jpg Graphic file (type jpg)
+
+<use figures/Hand/palmUp_palmDown.jpg>
+Package pdftex.def Info: figures/Hand/palmUp_palmDown.jpg used on input line 66
+0.
+(pdftex.def)             Requested size: 179.69948pt x 254.45pt.
+
+Overfull \hbox (13.02419pt too wide) in paragraph at lines 664--671
+[][] 
+ []
+
+[33 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmTendonRouting_sup
+port.jpg>] [34 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUp_pal
+mDown.jpg>]
+<figures/Hand/tendonRoutingLast.jpg, id=564, 737.00343pt x 444.91219pt>
+File: figures/Hand/tendonRoutingLast.jpg Graphic file (type jpg)
+
+<use figures/Hand/tendonRoutingLast.jpg>
+Package pdftex.def Info: figures/Hand/tendonRoutingLast.jpg used on input line 
+702.
+(pdftex.def)             Requested size: 204.03096pt x 133.47467pt.
+
+Overfull \hbox (2.6353pt too wide) in paragraph at lines 701--704
+ [][] 
+ []
+
+
+Overfull \hbox (26.89514pt too wide) in paragraph at lines 717--718
+ [] 
+ []
+
+[35 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/tendonRoutingLast.jpg
+>] <figures/Hand/palmUpPalmDown_thumb.jpg, id=572, 586.44093pt x 530.73282pt>
+File: figures/Hand/palmUpPalmDown_thumb.jpg Graphic file (type jpg)
+
+<use figures/Hand/palmUpPalmDown_thumb.jpg>
+Package pdftex.def Info: figures/Hand/palmUpPalmDown_thumb.jpg used on input li
+ne 747.
+(pdftex.def)             Requested size: 206.4524pt x 196.36806pt.
+
+Overfull \hbox (5.05673pt too wide) in paragraph at lines 746--749
+ [][] 
+ []
+
+
+Overfull \hbox (19.30193pt too wide) in paragraph at lines 751--757
+[][] 
+ []
+
+
+<figures/Hand/palmUpPalmDownThumb_tendonRouting.jpg, id=574, 404.26031pt x 508.
+14844pt>
+File: figures/Hand/palmUpPalmDownThumb_tendonRouting.jpg Graphic file (type jpg
+)
+ <use figures/Hand/palmUpPalmDownThumb_tendonRouting.jpg>
+Package pdftex.def Info: figures/Hand/palmUpPalmDownThumb_tendonRouting.jpg use
+d on input line 782.
+(pdftex.def)             Requested size: 173.67699pt x 254.0736pt.
+
+Overfull \hbox (26.89514pt too wide) in paragraph at lines 792--793
+ [] 
+ []
+
+[36 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUpPalmDown_thumb.
+jpg>]
+<figures/Hand/palmUpPalmDownThumbTendonRoutingRoute1.jpg, id=584, 491.58656pt x
+ 514.17094pt>
+File: figures/Hand/palmUpPalmDownThumbTendonRoutingRoute1.jpg Graphic file (typ
+e jpg)
+ <use figures/Hand/palmUpPalmDownThumbTendonRoutingRoute1.jpg>
+Package pdftex.def Info: figures/Hand/palmUpPalmDownThumbTendonRoutingRoute1.jp
+g used on input line 816.
+(pdftex.def)             Requested size: 208.4083pt x 231.37479pt.
+
+Overfull \hbox (7.01262pt too wide) in paragraph at lines 815--818
+ [][] 
+ []
+
+
+Overfull \hbox (3.02414pt too wide) in paragraph at lines 820--826
+[][] 
+ []
+
+[37 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUpPalmDownThumb_t
+endonRouting.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUpP
+almDownThumbTendonRoutingRoute1.jpg>]
+<figures/Hand/palmUpPalmDownThumbTendonRoutingRoute2.jpg, id=593, 426.84468pt x
+ 434.37282pt>
+File: figures/Hand/palmUpPalmDownThumbTendonRoutingRoute2.jpg Graphic file (typ
+e jpg)
+ <use figures/Hand/palmUpPalmDownThumbTendonRoutingRoute2.jpg>
+Package pdftex.def Info: figures/Hand/palmUpPalmDownThumbTendonRoutingRoute2.jp
+g used on input line 854.
+(pdftex.def)             Requested size: 284.52756pt x 289.56349pt.
+
+Overfull \hbox (83.1319pt too wide) in paragraph at lines 853--856
+ [][] 
+ []
+
+
+Overfull \hbox (3.02414pt too wide) in paragraph at lines 858--864
+[][] 
+ []
+
+[38 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUpPalmDownThumbTe
+ndonRoutingRoute2.jpg>]
+<figures/Hand/palmUpPalmDownThumb_flange.jpg, id=599, 741.52031pt x 490.08093pt
+>
+File: figures/Hand/palmUpPalmDownThumb_flange.jpg Graphic file (type jpg)
+ <use figures/Hand/palmUpPalmDownThumb_flange.jpg>
+Package pdftex.def Info: figures/Hand/palmUpPalmDownThumb_flange.jpg used on in
+put line 897.
+(pdftex.def)             Requested size: 205.38603pt x 147.0254pt.
+
+Overfull \hbox (3.99037pt too wide) in paragraph at lines 896--899
+ [][] 
+ []
+
+
+Overfull \hbox (3.43846pt too wide) in paragraph at lines 901--909
+[][] 
+ []
+
+
+<figures/AnthropomorphicHandAssembly_Guide.png, id=601, 431.36156pt x 514.17094
+pt>
+File: figures/AnthropomorphicHandAssembly_Guide.png Graphic file (type png)
+ <use figures/AnthropomorphicHandAssembly_Guide.png>
+Package pdftex.def Info: figures/AnthropomorphicHandAssembly_Guide.png used on 
+input line 920.
+(pdftex.def)             Requested size: 199.16928pt x 237.4002pt.
+) [39 <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/Hand/palmUpPalmDownThumb
+_flange.jpg> <C:/Users/Minas/Desktop/OpenBionicsGuide/figures/AnthropomorphicHa
+ndAssembly_Guide.png>]
+(C:\Users\Minas\Desktop\OpenBionicsGuide\OpenBionics_ProstheticHandsGuide2015.b
+bl) [40
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
+
+(C:\Users\Minas\Desktop\OpenBionicsGuide\OpenBionics_ProstheticHandsGuide2015.a
+ux (C:\Users\Minas\Desktop\OpenBionicsGuide\Description.aux)
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix1.aux)
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix2.aux)
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix3.aux)
+(C:\Users\Minas\Desktop\OpenBionicsGuide\Appendix4.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
+Package rerunfilecheck Info: File `OpenBionics_ProstheticHandsGuide2015.out' ha
+s not changed.
+(rerunfilecheck)             Checksum: EC1EBC108DF5FD6A774D1CA5462B07CD;2370.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
+ ) 
+Here is how much of TeX's memory you used:
+ 21581 strings out of 493921
+ 438598 string characters out of 3144876
+ 512564 words of memory out of 3000000
+ 24173 multiletter control sequences out of 15000+200000
+ 14036 words of font info for 55 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 55i,19n,76p,1530b,1236s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on OpenBionics_ProstheticHandsGuide2015.pdf (41 pages, 8448615 b
+ytes).
+PDF statistics:
+ 682 PDF objects out of 1000 (max. 8388607)
+ 132 named destinations out of 1000 (max. 500000)
+ 978 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -8,3 +8,5 @@
 # Backup files in freecad and gcode
 *.gcode
 *.fcstd1
+
+.DS_Store

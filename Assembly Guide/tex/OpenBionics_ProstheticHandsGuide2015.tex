@@ -1,0 +1,144 @@
+\documentclass[a4paper]{report}
+
+\usepackage[top=3cm, bottom=3cm, left=3cm, right=3cm]{geometry}
+
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{cite}
+
+\usepackage[usenames,dvipsnames]{xcolor}
+
+
+\usepackage{tikz}
+\tikzset{
+  box/.style={
+    minimum width=\pagewidth,
+    draw,
+    rounded corners,
+    rectangle
+  },
+}
+\usetikzlibrary{shapes,snakes}
+\usepackage{amsmath,amssymb}
+
+\usepackage{float}
+\usepackage{wrapfig}
+
+\usepackage[english]{babel}
+\usepackage{array}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\usepackage{sidecap}
+\usepackage{float}
+\usepackage{varwidth}
+
+
+
+% section wise numbering of figures etc..
+\usepackage{chngcntr}
+\counterwithin{table}{section}
+\counterwithin{figure}{section}
+
+
+\usepackage{ifthen,version}
+\newboolean{include-notes}
+
+% commenting...
+ \setboolean{include-notes}{true}
+\newcommand{\chrisnote}[1]{\ifthenelse{\boolean{include-notes}}%
+ {\textcolor{BrickRed}{\textbf{Chris: #1}}}{}}
+
+
+% for nice warning symbol
+%\usepackage{fourier}
+
+% nice circled numbering
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+            \node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\renewcommand{\thesection}{\thepart \arabic{section}}
+
+\usepackage{pict2e,picture}
+\newsavebox\CBox
+\newlength\CLength
+\def\Circled#1{\sbox\CBox{#1}%
+	\ifdim\wd\CBox>\ht\CBox \CLength=\wd\CBox\else\CLength=\ht\CBox\fi
+	\makebox[1.2\CLength]{\makebox(0,1.2\CLength){\put(0,0){\circle{1.2\CLength}}}%
+	\makebox(0,1.2\CLength){\put(-.5\wd\CBox,0){#1}}}}
+
+
+\begin{document}
+
+	% Define box and box title style
+	\tikzstyle{mybox} = [draw=black, fill=white, thick, rectangle, rounded corners, inner sep=0.4cm]
+	\tikzstyle{mytitle} =[fill=black,rectangle, rounded corners, text=white]
+
+	\begin{titlepage}
+	\begin{center}
+		{ \Large \bfseries How to Create Affordable, Anthropomorphic, Personalized, Light-Weight Prosthetic Hands\\[0.5cm] }
+                { \large *George P. Kontoudis, *Minas V. Liarokapis, *Agisilaos G. Zisimatos, *Christoforos I. Mavrogiannis and Kostas J. Kyriakopoulos}
+
+                \vspace{1.4in}
+
+		\fbox{\includegraphics[width=12cm]{figures/cover.jpg}}
+
+                \vspace{1.7in}
+
+		{ \large Technical Report, Control Systems Lab\\
+                   School of Mechanical Engineering, National Technical University of Athens \\[0.5cm] }
+
+		{ \large October 2015 $|$ * denotes first author\\[0.5cm]}
+		
+		
+	\end{center}
+	\end{titlepage}
+
+	\newpage
+
+
+	\begin{minipage}{0.2\textwidth}
+		\includegraphics[width=2cm]{figures/License.png}
+	\end{minipage}
+	\begin{minipage}{0.8\textwidth}
+		\begin{flushleft} \small        
+			OpenBionics by \url{www.openbionics.org} is licensed under a  \href{https://creativecommons.org/licenses/by-sa/4.0/}{Creative Commons Attribution-ShareAlike 4.0 International License}.
+		\end{flushleft}
+	\end{minipage}
+
+	\vspace{12cm}
+
+\begin{center}
+ \includegraphics[width=8cm]{figures/openbionics.png}
+\end{center}
+
+	{\Large \bfseries Contact: }\\
+
+        \noindent George P. Kontoudis, Agisilaos G. Zisimatos and Kostas J. Kyriakopoulos are with the Control Systems Lab, School of Mechanical Engineering, National Technical University of Athens, 9 Heroon Polytechniou Str, Athens, 15780, Greece (email:\{mc11681,el08087,kkyria\}@mail.ntua.gr).\\
+
+        \noindent Minas V. Liarokapis is with the Dept. of Mechanical Engineering and Materials Science, School of Engineering and Applied Science, Yale University, 9 Hillhouse Avenue, New Haven, CT, 06520, USA (email:minas.liarokapis@yale.edu).\\
+
+        \noindent Christoforos I. Mavrogiannis is with the Sibley School of Mechanical \& Aerospace Engineering, Cornell University, Ithaca, NY, 14853, USA (email:cm694@cornell.edu).\\
+
+	\noindent For any inquiry and/or suggestion you may contact: info@openbionics.org 
+	
+
+\newpage
+\tableofcontents
+\newpage
+\include{Description}
+
+%%%% Appendices %%%% 
+
+\include{Appendix1}
+\include{Appendix2}
+\include{Appendix3}
+\include{Appendix4}
+
+%%%% Bibliography %%%%
+
+\bibliographystyle{ieeetr} 
+\bibliography{Ref}
+
+\end{document}

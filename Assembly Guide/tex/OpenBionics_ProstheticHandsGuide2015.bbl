@@ -1,0 +1,65 @@
+\begin{thebibliography}{10}
+
+\bibitem{Kontoudis2015IROS}
+G.~P. Kontoudis, M.~V. Liarokapis, A.~G. Zisimatos, C.~I. Mavrogiannis, and
+  K.~J. Kyriakopoulos, ``Open-source, anthropomorphic, underactuated robot
+  hands with a selectively lockable differential mechanism: Towards affordable
+  prostheses,'' in {\em IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)}, October 2015.
+
+\bibitem{Liarokapis2014ASURRW}
+M.~V. Liarokapis, A.~G. Zisimatos, C.~I. Mavrogiannis, and K.~J. Kyriakopoulos,
+  ``{OpenBionics:} an open-source initiative for the creation of affordable,
+  modular, light-weight, underactuated robot hands and prosthetic devices,'' in
+  {\em 2nd ASU Rehabilitation Robotics Workshop}, February 2014.
+
+\bibitem{Zisimatos2014IROS}
+A.~Zisimatos, M.~Liarokapis, C.~Mavrogiannis, and K.~Kyriakopoulos,
+  ``Open-source, affordable, modular, light-weight, underactuated robot
+  hands,'' in {\em Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ
+  International Conference on}, pp.~3207--3212, Sept 2014.
+
+\bibitem{BuchholzErgonomics1992}
+B.~Buchholz, T.~J. Armstrong, and S.~A. Goldstein, ``{Anthropometric data for
+  describing the kinematics of the human hand.},'' {\em Ergonomics}, vol.~35,
+  no.~3, pp.~261--73, 1992.
+
+\bibitem{Liarokapis2013ICRA}
+M.~V. Liarokapis, P.~K. Artemiadis, and K.~J. Kyriakopoulos, ``Quantifying
+  anthropomorphism of robot hands,'' in {\em IEEE International Conference on
+  Robotics and Automation (ICRA)}, pp.~2041--2046, IEEE, 2013.
+
+\bibitem{Kapandji}
+I.~Kapandji, {\em Physiology of the Joints: Upper Limb: Volume 1}.
+\newblock Churchill Livingstone Edinburgh, 1974.
+
+\bibitem{GrebensteinThesis}
+M.~Grebenstein, {\em Approaching Human Performance: The Functionality Driven
+  Awiwi Robot Hand}.
+\newblock PhD thesis, 2012.
+
+\bibitem{DollarAR2005}
+A.~M. Dollar and R.~D. Howe, ``{Towards grasping in unstructured environments:
+  grasper compliance and configuration optimization},'' {\em Advanced
+  Robotics}, vol.~19, pp.~523--543, June 2005.
+
+\bibitem{deformableciocarlie2005}
+M.~T. Ciocarlie, A.~T. Miller, and P.~K. Allen, ``Grasp analysis using
+  deformable fingers.,'' in {\em IEEE/RSJ International Conference on
+  Intelligent Robots and Systems (IROS)}, pp.~4122--4128, IEEE, 2005.
+
+\bibitem{Baril}
+M.~Baril, T.~Lalibert{\'e}, C.~Gosselin, and F.~Routhier, ``On the design of a
+  mechanically programmable underactuated anthropomorphic prosthetic gripper,''
+  {\em Journal of Mechanical Design}, vol.~135, no.~12, p.~121008, 2013.
+
+\bibitem{Birglen}
+L.~Birglen and C.~M. Gosselin, ``Force analysis of connected differential
+  mechanisms: application to grasping,'' {\em The International Journal of
+  Robotics Research}, vol.~25, no.~10, pp.~1033--1046, 2006.
+
+\bibitem{Arduino}
+Arduino, ``Open-source electronics prototyping platform based on
+  microcontroller.'' \url{http://www.arduino.cc}, Feb. 2013.
+
+\end{thebibliography}

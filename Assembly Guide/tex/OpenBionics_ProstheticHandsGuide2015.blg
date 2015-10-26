@@ -1,0 +1,26 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: OpenBionics_ProstheticHandsGuide2015.aux
+A level-1 auxiliary file: Description.aux
+A level-1 auxiliary file: Appendix1.aux
+A level-1 auxiliary file: Appendix2.aux
+A level-1 auxiliary file: Appendix3.aux
+A level-1 auxiliary file: Appendix4.aux
+The style file: ieeetr.bst
+Database file #1: Ref.bib
+Repeated entry---line 106 of file Ref.bib
+ : @inproceedings{Zisimatos2014IROS
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 191 of file Ref.bib
+ : @article{DollarAR2005
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 208 of file Ref.bib
+ : @inproceedings{Liarokapis2013ICRA
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 218 of file Ref.bib
+ : @article{BuchholzErgonomics1992
+ :                                ,
+I'm skipping whatever remains of this entry
+Warning--empty school in GrebensteinThesis
+(There were 4 error messages)
