@@ -11,7 +11,7 @@ We have modified our CAD files in order to integrate the required parameters (HL
 3. Open the assembly file "AnthropomorphicHandAssembly.SLDASM" which can be found @ <a href= "https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/2D%20Design/LeftHand/Assembly">Prosthetic-Hands/CAD/2D Design/Left/Assembly</a>.
 4. Go to the file "prostheticParameters.SLDPRT" and change the desired values (HL=hand length, HB=hand breadth & fingerWidth) according to the following figure and then save the file.
 
-<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/HumanHand.jpg" width="60%" height="60%"/>
+<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/HumanHand.jpg" width="40%" height="40%"/>
  
 5. Go to the assembly file "AnthropomorphicHandAssembly.SLDASM" and rebuild it. All .SLDPRT files that are used in the assembly should be rebuilt.
 6. If you want .STL files, you should open every rebuilt part and then choose "Save as .STL".
@@ -20,7 +20,7 @@ We have modified our CAD files in order to integrate the required parameters (HL
 
 In the following figure you can see the 2D Design model
 
-<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/righthand.jpg" width="60%" height="60%"/>
+<img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/righthand.jpg" width="40%" height="40%"/>
 
 ## Things to note:
 
