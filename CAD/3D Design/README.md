@@ -1,6 +1,6 @@
 ﻿# Parametric CAD file for 2D Design
 
-## Guide for perosnaliszd design
+## Guide for personalized design
 
 Τhe use of parametric models derived from human hand anthropometry studies, allows for the development of personalized prostheses. The only parameters that we need in order to derive the finger phalanges lengths and the personalized finger base frames positions and orientations, are the human hand length (HL) and the human hand breadth (HB). 
 
