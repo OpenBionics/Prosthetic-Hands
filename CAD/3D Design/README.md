@@ -6,9 +6,9 @@
 
 We have modified our CAD files in order to integrate the required parameters (HL & HB) for the replication of a personalized design. Firstly, you need to decide which hand you want to replicate (Right or Left). You can find below a quick guide for the production of the personalized design. The procedure is the same for both hands.
 
-1. Open the part file "prostheticParameters.SLDPRT" which can be found @ <a href="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/CAD/3D%20Design/prostheticParameters.SLDPRT">Prosthetic-Hands/CAD/3D Design</a>.
+1. Open the part file "prostheticParameters.SLDPRT" which can be found @ <a href="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/CAD/3D%20Design/Left_hand/prostheticParameters.SLDPRT">Prosthetic-Hands/CAD/3D Design/Left_hand</a>.
 2. Make the "parametersSketch" file editable. You can see there, the parameters that you can change. Their values are reported in mm and NOT in inches.
-3. Open the assembly file "AnthropomorphicHandAssembly.SLDASM" which can be found @ <a href= "https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/3D%20Design/Assembly">Prosthetic-Hands/CAD/3D Design/Assembly</a>.
+3. Open the assembly file "AnthropomorphicHandAssembly.SLDASM" which can be found @ <a href= "https://github.com/OpenBionics/Prosthetic-Hands/tree/master/CAD/3D%20Design/Left_hand/Assembly">Prosthetic-Hands/CAD/3D Design//Left_hand/Assembly</a>.
 4. Go to the file "prostheticParameters.SLDPRT" and change the desired values (HL=hand length, HB=hand breadth & fingerWidth) according to the following figure and then save the file.
 
 <img src="https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/HumanHand.jpg" width="40%" height="40%"/>
