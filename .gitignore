@@ -10,3 +10,6 @@
 *.fcstd1
 
 .DS_Store
+
+# Folder config file
+**/desktop.ini
