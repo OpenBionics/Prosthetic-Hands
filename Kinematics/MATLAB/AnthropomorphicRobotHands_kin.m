@@ -7,7 +7,7 @@
 %% Phone Number: +30-210-7724012                               
 %% #### -------------------------------------------------------------- #### 
 
-function A = AnthropomorphicRobotHands_kin1(HL, HB, q)
+function A = AnthropomorphicRobotHands_kin(HL, HB, q)
 
 %%%% Anthropomorphic Robot Hand Kinematics %%%%
 % HL=185;
@@ -147,3 +147,4 @@ Middle.plot(q(4:6)); hold on;
 Ring.plot(q(7:9)); hold on;
 Pinky.plot(q(10:12)); hold on;
 Thumb.plot(q(13:15)); hold on;
+axis ([-100 100 0 220 -20 120]);
